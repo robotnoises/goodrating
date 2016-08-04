@@ -1,0 +1,916 @@
+{
+  "extractorData": {
+    "url": "http://247sports.com/Season/2016-Football/CompositeTeamRankings",
+    "resourceId": "ae1eff7b7f37053c90ef3c980392b799",
+    "data": [
+      {
+        "group": [
+          {
+            "rank": [
+              {
+                "text": "1"
+              }
+            ],
+            "name": [
+              {
+                "text": "Alabama",
+                "href": "http://alabama.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "301.41"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "2"
+              }
+            ],
+            "name": [
+              {
+                "text": "Florida State",
+                "href": "http://floridastate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "295.44"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "3"
+              }
+            ],
+            "name": [
+              {
+                "text": "LSU",
+                "href": "http://lsu.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "290.60"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "4"
+              }
+            ],
+            "name": [
+              {
+                "text": "Ohio State",
+                "href": "http://ohiostate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "289.12"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "5"
+              }
+            ],
+            "name": [
+              {
+                "text": "Michigan",
+                "href": "http://michigan.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "283.18"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "6"
+              }
+            ],
+            "name": [
+              {
+                "text": "Ole Miss",
+                "href": "http://olemiss.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "281.69"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "7"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas",
+                "href": "http://texas.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "280.31"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "8"
+              }
+            ],
+            "name": [
+              {
+                "text": "Georgia",
+                "href": "http://georgia.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "276.94"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "9"
+              }
+            ],
+            "name": [
+              {
+                "text": "Auburn",
+                "href": "http://auburn.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "274.55"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "10"
+              }
+            ],
+            "name": [
+              {
+                "text": "USC",
+                "href": "http://usc.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "272.54"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "11"
+              }
+            ],
+            "name": [
+              {
+                "text": "Clemson",
+                "href": "http://clemson.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "270.74"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "12"
+              }
+            ],
+            "name": [
+              {
+                "text": "UCLA",
+                "href": "http://ucla.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "262.28"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "13"
+              }
+            ],
+            "name": [
+              {
+                "text": "Florida",
+                "href": "http://florida.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "260.96"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "14"
+              }
+            ],
+            "name": [
+              {
+                "text": "Tennessee",
+                "href": "http://tennessee.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "253.94"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "15"
+              }
+            ],
+            "name": [
+              {
+                "text": "Notre Dame",
+                "href": "http://notredame.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "249.43"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "16"
+              }
+            ],
+            "name": [
+              {
+                "text": "Stanford",
+                "href": "http://stanford.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "247.03"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "17"
+              }
+            ],
+            "name": [
+              {
+                "text": "Michigan State",
+                "href": "http://michiganstate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "239.20"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "18"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas A&M",
+                "href": "http://tamu.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "238.94"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "19"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oklahoma",
+                "href": "http://oklahoma.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "238.02"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "20"
+              }
+            ],
+            "name": [
+              {
+                "text": "Penn State",
+                "href": "http://pennstate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "237.79"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "21"
+              }
+            ],
+            "name": [
+              {
+                "text": "Miami",
+                "href": "http://miami.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "235.05"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "22"
+              }
+            ],
+            "name": [
+              {
+                "text": "TCU",
+                "href": "http://tcu.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "234.93"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "23"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arkansas",
+                "href": "http://arkansas.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "218.97"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "24"
+              }
+            ],
+            "name": [
+              {
+                "text": "South Carolina",
+                "href": "http://southcarolina.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "218.91"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "25"
+              }
+            ],
+            "name": [
+              {
+                "text": "Nebraska",
+                "href": "http://nebraska.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "218.49"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "26"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arizona State",
+                "href": "http://arizonastate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "217.62"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "27"
+              }
+            ],
+            "name": [
+              {
+                "text": "Mississippi State",
+                "href": "http://mississippistate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "214.99"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "28"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oregon",
+                "href": "http://oregon.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "214.01"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "29"
+              }
+            ],
+            "name": [
+              {
+                "text": "Washington",
+                "href": "http://washington.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "209.35"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "30"
+              }
+            ],
+            "name": [
+              {
+                "text": "Pittsburgh",
+                "href": "http://pitt.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "209.04"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "31"
+              }
+            ],
+            "name": [
+              {
+                "text": "California",
+                "href": "http://cal.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "207.74"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "32"
+              }
+            ],
+            "name": [
+              {
+                "text": "Wisconsin",
+                "href": "http://wisconsin.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "204.95"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "33"
+              }
+            ],
+            "name": [
+              {
+                "text": "Duke",
+                "href": "http://duke.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "204.76"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "34"
+              }
+            ],
+            "name": [
+              {
+                "text": "Kentucky",
+                "href": "http://kentucky.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "204.31"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "35"
+              }
+            ],
+            "name": [
+              {
+                "text": "Houston",
+                "href": "http://houston.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "203.39"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "36"
+              }
+            ],
+            "name": [
+              {
+                "text": "North Carolina",
+                "href": "http://northcarolina.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "202.07"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "37"
+              }
+            ],
+            "name": [
+              {
+                "text": "Utah",
+                "href": "http://utah.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "200.88"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "38"
+              }
+            ],
+            "name": [
+              {
+                "text": "Louisville",
+                "href": "http://louisville.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "195.63"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "39"
+              }
+            ],
+            "name": [
+              {
+                "text": "West Virginia",
+                "href": "http://westvirginia.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "193.84"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "40"
+              }
+            ],
+            "name": [
+              {
+                "text": "Virginia Tech",
+                "href": "http://virginiatech.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "191.24"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "41"
+              }
+            ],
+            "name": [
+              {
+                "text": "Baylor",
+                "href": "http://baylor.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "190.32"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "42"
+              }
+            ],
+            "name": [
+              {
+                "text": "Maryland",
+                "href": "http://maryland.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "189.10"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "43"
+              }
+            ],
+            "name": [
+              {
+                "text": "Missouri",
+                "href": "http://missouri.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "188.35"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "44"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arizona",
+                "href": "http://arizona.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "184.35"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "45"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oklahoma State",
+                "href": "http://oklahomastate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "183.52"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "46"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas Tech",
+                "href": "http://texastech.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "182.63"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "47"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oregon State",
+                "href": "http://oregonstate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "181.73"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "48"
+              }
+            ],
+            "name": [
+              {
+                "text": "Minnesota",
+                "href": "http://minnesota.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "181.41"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "49"
+              }
+            ],
+            "name": [
+              {
+                "text": "Iowa",
+                "href": "http://iowa.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "180.90"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "50"
+              }
+            ],
+            "name": [
+              {
+                "text": "N.C. State",
+                "href": "http://ncstate.247sports.com/Season/2016-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "178.77"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pageData": {
+    "statusCode": 200,
+    "timestamp": 1470338248504
+  }
+}
