@@ -12,8 +12,9 @@ Todo
 2. Performance relative to expectation (+/-) against spread
 3. Adjusted Offense Ranking
 4. Adjusted Defense Ranking
-5. Head-to-head results
-6. TBA
+5. Adjusted Player Ranking
+6. Head-to-head results
+7. TBA
 
 ## Assumptions
 
