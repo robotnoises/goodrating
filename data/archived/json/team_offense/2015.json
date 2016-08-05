@@ -1,0 +1,4904 @@
+{
+  "extractorData": {
+    "url": "http://www.sports-reference.com/cfb/years/2015-team-offense.html",
+    "resourceId": "afe9137869021048e70ba2a1272c8f2b",
+    "data": [
+      {
+        "group": [
+          {
+            "name": [
+              {
+                "text": "Baylor",
+                "href": "http://www.sports-reference.com/cfb/schools/baylor/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "29.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "289.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "54.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "326.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "84.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "616.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Texas Tech",
+                "href": "http://www.sports-reference.com/cfb/schools/texas-tech/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "47.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "388.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "191.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "83.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "579.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Western Kentucky",
+                "href": "http://www.sports-reference.com/cfb/schools/western-kentucky/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "39.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "372.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "33.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "154.6"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "72.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "526.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Oklahoma",
+                "href": "http://www.sports-reference.com/cfb/schools/oklahoma/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "33.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "308.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "44.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "222.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "77.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "530.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Oregon",
+                "href": "http://www.sports-reference.com/cfb/schools/oregon/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "258.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "47.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "280.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "76.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "538.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Bowling Green State",
+                "href": "http://www.sports-reference.com/cfb/schools/bowling-green-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "42.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "366.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "38.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "180.0"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "81.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "546.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Texas Christian",
+                "href": "http://www.sports-reference.com/cfb/schools/texas-christian/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "39.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "347.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "43.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "215.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "82.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "562.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Mississippi",
+                "href": "http://www.sports-reference.com/cfb/schools/mississippi/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "37.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "334.7"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "183.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "517.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "North Carolina",
+                "href": "http://www.sports-reference.com/cfb/schools/north-carolina/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "29.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "262.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "224.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "486.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Houston",
+                "href": "http://www.sports-reference.com/cfb/schools/houston/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "30.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "248.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "47.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "236.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "78.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "484.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Memphis",
+                "href": "http://www.sports-reference.com/cfb/schools/memphis/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "35.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "307.6"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "43.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "179.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "79.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "486.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Arkansas State",
+                "href": "http://www.sports-reference.com/cfb/schools/arkansas-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "207.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "46.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "232.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "74.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "439.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Southern Mississippi",
+                "href": "http://www.sports-reference.com/cfb/schools/southern-mississippi/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "37.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "329.7"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "179.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "509.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Oklahoma State",
+                "href": "http://www.sports-reference.com/cfb/schools/oklahoma-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "39.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "353.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "126.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "75.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "479.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Boise State",
+                "href": "http://www.sports-reference.com/cfb/schools/boise-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "40.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "309.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "42.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "191.4"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "82.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "501.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Clemson",
+                "href": "http://www.sports-reference.com/cfb/schools/clemson/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "35.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "291.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "45.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "222.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "80.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "514.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "California",
+                "href": "http://www.sports-reference.com/cfb/schools/california/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "42.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "375.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "33.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "152.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "76.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "528.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Stanford",
+                "href": "http://www.sports-reference.com/cfb/schools/stanford/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "22.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "211.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "43.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "223.6"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "435.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Louisiana Tech",
+                "href": "http://www.sports-reference.com/cfb/schools/louisiana-tech/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "36.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "322.6"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "33.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "159.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "482.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Arizona",
+                "href": "http://www.sports-reference.com/cfb/schools/arizona/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "35.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "272.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "40.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "222.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "76.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "494.8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group": [
+          {
+            "name": [
+              {
+                "text": "Tulsa",
+                "href": "http://www.sports-reference.com/cfb/schools/tulsa/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "37.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "333.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "45.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "174.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "83.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "507.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Navy",
+                "href": "http://www.sports-reference.com/cfb/schools/navy/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "9.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "98.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "57.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "326.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "425.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Appalachian State",
+                "href": "http://www.sports-reference.com/cfb/schools/appalachian-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "22.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "194.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "46.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "272.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "466.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Georgia Southern",
+                "href": "http://www.sports-reference.com/cfb/schools/georgia-southern/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "10.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "63.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "55.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "362.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "425.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Indiana",
+                "href": "http://www.sports-reference.com/cfb/schools/indiana/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "35.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "293.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "45.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "210.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "81.0"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "504.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Western Michigan",
+                "href": "http://www.sports-reference.com/cfb/schools/western-michigan/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "287.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "40.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "203.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "71.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "490.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Arkansas",
+                "href": "http://www.sports-reference.com/cfb/schools/arkansas/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "268.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "39.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "198.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "466.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Ohio State",
+                "href": "http://www.sports-reference.com/cfb/schools/ohio-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "24.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "188.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "43.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "245.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "434.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Tennessee",
+                "href": "http://www.sports-reference.com/cfb/schools/tennessee/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "198.6"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "47.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "223.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "76.0"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "422.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Alabama",
+                "href": "http://www.sports-reference.com/cfb/schools/alabama/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "29.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "227.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "42.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "199.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "72.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "427.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Toledo",
+                "href": "http://www.sports-reference.com/cfb/schools/toledo/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "34.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "253.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "40.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "208.4"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "75.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "461.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Arizona State",
+                "href": "http://www.sports-reference.com/cfb/schools/arizona-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "41.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "298.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "178.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "82.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "477.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Mississippi State",
+                "href": "http://www.sports-reference.com/cfb/schools/mississippi-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "38.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "316.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "144.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "71.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "460.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Notre Dame",
+                "href": "http://www.sports-reference.com/cfb/schools/notre-dame/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "29.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "258.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.0"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "208.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "466.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Middle Tennessee State",
+                "href": "http://www.sports-reference.com/cfb/schools/middle-tennessee-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "38.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "310.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "38.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "151.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "77.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "462.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "West Virginia",
+                "href": "http://www.sports-reference.com/cfb/schools/west-virginia/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "33.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "251.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "47.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "228.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "80.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "479.7"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Southern California",
+                "href": "http://www.sports-reference.com/cfb/schools/southern-california/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "33.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "269.7"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "168.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "70.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "437.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Air Force",
+                "href": "http://www.sports-reference.com/cfb/schools/air-force/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "12.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "131.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "58.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "319.4"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "70.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "451.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Cincinnati",
+                "href": "http://www.sports-reference.com/cfb/schools/cincinnati/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "42.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "359.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "39.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "177.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "81.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "537.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Brigham Young",
+                "href": "http://www.sports-reference.com/cfb/schools/brigham-young/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "38.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "296.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "31.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "128.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "70.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "424.8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group": [
+          {
+            "name": [
+              {
+                "text": "South Florida",
+                "href": "http://www.sports-reference.com/cfb/schools/south-florida/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "23.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "194.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "45.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "247.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "441.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "North Carolina State",
+                "href": "http://www.sports-reference.com/cfb/schools/north-carolina-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "210.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "202.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "413.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Louisiana State",
+                "href": "http://www.sports-reference.com/cfb/schools/louisiana-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "23.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "180.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "42.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "256.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "437.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Nebraska",
+                "href": "http://www.sports-reference.com/cfb/schools/nebraska/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "35.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "266.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "38.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "180.0"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "446.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "UCLA",
+                "href": "http://www.sports-reference.com/cfb/schools/ucla/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "39.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "288.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "176.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "74.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "465.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "San Diego State",
+                "href": "http://www.sports-reference.com/cfb/schools/san-diego-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "17.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "142.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "48.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "233.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "375.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Florida State",
+                "href": "http://www.sports-reference.com/cfb/schools/florida-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "32.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "255.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "168.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "64.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "424.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Duke",
+                "href": "http://www.sports-reference.com/cfb/schools/duke/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "39.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "246.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "40.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "193.0"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "79.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "439.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Washington State",
+                "href": "http://www.sports-reference.com/cfb/schools/washington-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "56.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "389.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "22.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "80.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "79.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "469.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Michigan",
+                "href": "http://www.sports-reference.com/cfb/schools/michigan/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "237.7"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "158.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "395.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Marshall",
+                "href": "http://www.sports-reference.com/cfb/schools/marshall/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "36.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "231.7"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "38.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "168.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "74.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "400.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Northern Illinois",
+                "href": "http://www.sports-reference.com/cfb/schools/northern-illinois/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "208.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "45.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "190.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "74.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "398.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Virginia Tech",
+                "href": "http://www.sports-reference.com/cfb/schools/virginia-tech/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "30.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "225.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "159.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "72.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "385.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Iowa",
+                "href": "http://www.sports-reference.com/cfb/schools/iowa/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "26.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "204.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "40.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "181.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "386.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Utah",
+                "href": "http://www.sports-reference.com/cfb/schools/utah/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "27.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "179.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "43.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "183.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "71.0"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "363.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Washington",
+                "href": "http://www.sports-reference.com/cfb/schools/washington/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "30.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "239.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "36.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "163.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "67.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "403.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Idaho",
+                "href": "http://www.sports-reference.com/cfb/schools/idaho/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "39.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "281.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "38.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "147.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "77.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "428.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Kansas State",
+                "href": "http://www.sports-reference.com/cfb/schools/kansas-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "26.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "176.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "40.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "157.0"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "67.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "333.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "New Mexico",
+                "href": "http://www.sports-reference.com/cfb/schools/new-mexico/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "17.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "134.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "49.0"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "254.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "388.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Michigan State",
+                "href": "http://www.sports-reference.com/cfb/schools/michigan-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "234.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "39.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "151.4"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "70.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "385.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group": [
+          {
+            "name": [
+              {
+                "text": "Temple",
+                "href": "http://www.sports-reference.com/cfb/schools/temple/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "216.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.0"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "149.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "366.7"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Colorado State",
+                "href": "http://www.sports-reference.com/cfb/schools/colorado-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "30.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "228.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "197.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "71.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "425.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Georgia Tech",
+                "href": "http://www.sports-reference.com/cfb/schools/georgia-tech/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "16.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "121.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "48.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "256.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "64.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "378.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Utah State",
+                "href": "http://www.sports-reference.com/cfb/schools/utah-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "205.2"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.0"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "165.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.0"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "370.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Louisville",
+                "href": "http://www.sports-reference.com/cfb/schools/louisville/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "245.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "171.0"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "416.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Nevada-Las Vegas",
+                "href": "http://www.sports-reference.com/cfb/schools/nevada-las-vegas/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "30.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "211.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "193.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "72.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "404.7"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "New Mexico State",
+                "href": "http://www.sports-reference.com/cfb/schools/new-mexico-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "37.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "252.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "181.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "74.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "434.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Pittsburgh",
+                "href": "http://www.sports-reference.com/cfb/schools/pittsburgh/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "26.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "190.6"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "39.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "186.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "377.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "San Jose State",
+                "href": "http://www.sports-reference.com/cfb/schools/san-jose-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "30.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "221.7"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "40.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "182.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "70.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "404.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Troy",
+                "href": "http://www.sports-reference.com/cfb/schools/troy/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "34.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "240.6"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "31.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "119.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "359.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Miami (FL)",
+                "href": "http://www.sports-reference.com/cfb/schools/miami-fl/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "34.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "277.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "119.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "67.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "397.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Southern Methodist",
+                "href": "http://www.sports-reference.com/cfb/schools/southern-methodist/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "30.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "218.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "164.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "72.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "382.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Texas A&M",
+                "href": "http://www.sports-reference.com/cfb/schools/texas-am/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "37.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "258.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "38.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "169.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "75.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "427.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Auburn",
+                "href": "http://www.sports-reference.com/cfb/schools/auburn/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "23.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "173.6"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "45.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "196.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "369.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Ohio",
+                "href": "http://www.sports-reference.com/cfb/schools/ohio/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "232.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "42.0"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "180.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "413.7"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "East Carolina",
+                "href": "http://www.sports-reference.com/cfb/schools/east-carolina/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "39.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "280.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "33.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "134.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "415.7"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Syracuse",
+                "href": "http://www.sports-reference.com/cfb/schools/syracuse/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "25.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "156.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.0"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "163.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "62.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "320.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Rutgers",
+                "href": "http://www.sports-reference.com/cfb/schools/rutgers/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "207.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "39.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "169.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "67.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "377.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Georgia State",
+                "href": "http://www.sports-reference.com/cfb/schools/georgia-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "38.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "335.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "31.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "96.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "432.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Texas State",
+                "href": "http://www.sports-reference.com/cfb/schools/texas-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "35.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "229.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "39.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "189.0"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "75.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "418.3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group": [
+          {
+            "name": [
+              {
+                "text": "Wisconsin",
+                "href": "http://www.sports-reference.com/cfb/schools/wisconsin/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "32.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "228.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "39.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "150.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "71.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "378.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Buffalo",
+                "href": "http://www.sports-reference.com/cfb/schools/buffalo/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "37.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "249.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "137.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "386.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Louisiana-Lafayette",
+                "href": "http://www.sports-reference.com/cfb/schools/louisiana-lafayette/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "32.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "208.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "171.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "380.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Texas",
+                "href": "http://www.sports-reference.com/cfb/schools/texas/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "21.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "145.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "44.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "224.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "370.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Georgia",
+                "href": "http://www.sports-reference.com/cfb/schools/georgia/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "25.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "185.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "190.4"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "62.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "375.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Nevada",
+                "href": "http://www.sports-reference.com/cfb/schools/nevada/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "25.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "164.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "42.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "210.6"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "375.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Rice",
+                "href": "http://www.sports-reference.com/cfb/schools/rice/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "224.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "44.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "178.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "75.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "402.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Central Michigan",
+                "href": "http://www.sports-reference.com/cfb/schools/central-michigan/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "38.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "300.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "100.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "70.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "400.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Virginia",
+                "href": "http://www.sports-reference.com/cfb/schools/virginia/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "34.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "238.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "144.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "383.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Florida International",
+                "href": "http://www.sports-reference.com/cfb/schools/florida-international/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "36.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "237.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "109.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "347.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Eastern Michigan",
+                "href": "http://www.sports-reference.com/cfb/schools/eastern-michigan/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "33.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "219.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "161.6"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "380.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Purdue",
+                "href": "http://www.sports-reference.com/cfb/schools/purdue/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "42.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "237.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "34.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "131.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "76.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "368.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Iowa State",
+                "href": "http://www.sports-reference.com/cfb/schools/iowa-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "34.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "226.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.5"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "182.0"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "75.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "408.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "South Alabama",
+                "href": "http://www.sports-reference.com/cfb/schools/south-alabama/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "29.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "199.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "40.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "160.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "360.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Kentucky",
+                "href": "http://www.sports-reference.com/cfb/schools/kentucky/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "33.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "209.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "34.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "162.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.0"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "372.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Maryland",
+                "href": "http://www.sports-reference.com/cfb/schools/maryland/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "32.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "174.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "36.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "200.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "375.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Colorado",
+                "href": "http://www.sports-reference.com/cfb/schools/colorado/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "35.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "239.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "157.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "77.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "396.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Old Dominion",
+                "href": "http://www.sports-reference.com/cfb/schools/old-dominion/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "36.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "219.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "33.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "151.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "371.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Akron",
+                "href": "http://www.sports-reference.com/cfb/schools/akron/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "192.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "165.2"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "358.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Florida",
+                "href": "http://www.sports-reference.com/cfb/schools/florida/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "206.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "36.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "128.0"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "334.9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group": [
+          {
+            "name": [
+              {
+                "text": "Penn State",
+                "href": "http://www.sports-reference.com/cfb/schools/penn-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "214.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "133.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "63.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "348.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Ball State",
+                "href": "http://www.sports-reference.com/cfb/schools/ball-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "38.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "218.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "36.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "153.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "74.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "371.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Illinois",
+                "href": "http://www.sports-reference.com/cfb/schools/illinois/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "43.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "243.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "129.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "75.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "372.7"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Texas-San Antonio",
+                "href": "http://www.sports-reference.com/cfb/schools/texas-san-antonio/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "29.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "194.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "42.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "168.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "72.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "362.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Florida Atlantic",
+                "href": "http://www.sports-reference.com/cfb/schools/florida-atlantic/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "32.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "212.6"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.4"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "162.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "74.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "375.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Minnesota",
+                "href": "http://www.sports-reference.com/cfb/schools/minnesota/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "32.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "214.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "34.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "144.1"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "67.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "358.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Fresno State",
+                "href": "http://www.sports-reference.com/cfb/schools/fresno-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "33.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "178.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "136.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "68.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "315.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Massachusetts",
+                "href": "http://www.sports-reference.com/cfb/schools/massachusetts/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "41.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "257.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "142.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.9"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "399.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Army",
+                "href": "http://www.sports-reference.com/cfb/schools/army/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "9.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "94.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "51.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "244.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "60.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "338.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "South Carolina",
+                "href": "http://www.sports-reference.com/cfb/schools/south-carolina/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "29.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "207.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "154.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "64.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "362.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Louisiana-Monroe",
+                "href": "http://www.sports-reference.com/cfb/schools/louisiana-monroe/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "36.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "207.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "102.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.4"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "310.8"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Texas-El Paso",
+                "href": "http://www.sports-reference.com/cfb/schools/texas-el-paso/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "32.0"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "195.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "147.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "343.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Tulane",
+                "href": "http://www.sports-reference.com/cfb/schools/tulane/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "33.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "201.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "33.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "115.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "317.0"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Northwestern",
+                "href": "http://www.sports-reference.com/cfb/schools/northwestern/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "27.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "138.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "46.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "188.5"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "73.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "327.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Oregon State",
+                "href": "http://www.sports-reference.com/cfb/schools/oregon-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "159.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.2"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "177.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "336.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Wyoming",
+                "href": "http://www.sports-reference.com/cfb/schools/wyoming/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "25.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "186.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "39.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "174.4"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "360.7"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Miami (OH)",
+                "href": "http://www.sports-reference.com/cfb/schools/miami-oh/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.2"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "211.0"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "35.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "129.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "66.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "340.7"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Hawaii",
+                "href": "http://www.sports-reference.com/cfb/schools/hawaii/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "32.5"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "192.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "32.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "123.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.1"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "316.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Charlotte",
+                "href": "http://www.sports-reference.com/cfb/schools/charlotte/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "173.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "46.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "163.6"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "78.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "337.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Wake Forest",
+                "href": "http://www.sports-reference.com/cfb/schools/wake-forest/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "34.8"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "228.3"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "34.8"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "105.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "69.5"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "333.9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group": [
+          {
+            "name": [
+              {
+                "text": "Boston College",
+                "href": "http://www.sports-reference.com/cfb/schools/boston-college/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "20.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "110.9"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.9"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "164.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "62.6"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "275.6"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Connecticut",
+                "href": "http://www.sports-reference.com/cfb/schools/connecticut/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "26.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "185.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "36.7"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "124.8"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "63.0"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "310.3"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Kansas",
+                "href": "http://www.sports-reference.com/cfb/schools/kansas/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "37.7"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "218.6"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.0"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "112.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "74.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "331.5"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "North Texas",
+                "href": "http://www.sports-reference.com/cfb/schools/north-texas/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "33.9"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "161.4"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "36.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "158.7"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "70.3"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "320.1"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Vanderbilt",
+                "href": "http://www.sports-reference.com/cfb/schools/vanderbilt/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.3"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "171.8"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "41.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "155.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "72.7"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "327.2"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Central Florida",
+                "href": "http://www.sports-reference.com/cfb/schools/central-florida/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "35.4"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "187.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "29.6"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "80.9"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.0"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "268.4"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Missouri",
+                "href": "http://www.sports-reference.com/cfb/schools/missouri/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "31.1"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "165.5"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "33.1"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "115.4"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "64.2"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "280.9"
+              }
+            ]
+          },
+          {
+            "name": [
+              {
+                "text": "Kent State",
+                "href": "http://www.sports-reference.com/cfb/schools/kent-state/2015.html"
+              }
+            ],
+            "numplays_pass": [
+              {
+                "text": "28.6"
+              }
+            ],
+            "numyards_pass": [
+              {
+                "text": "138.1"
+              }
+            ],
+            "numplays_rush": [
+              {
+                "text": "37.3"
+              }
+            ],
+            "numyards_rush": [
+              {
+                "text": "135.3"
+              }
+            ],
+            "numplays_total": [
+              {
+                "text": "65.8"
+              }
+            ],
+            "numyards_total": [
+              {
+                "text": "273.3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pageData": {
+    "statusCode": 200,
+    "timestamp": 1470404320028
+  }
+}
