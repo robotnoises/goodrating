@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/robotnoises/goodrating/issues"
   },
-  "homepage": "https://github.com/robotnoises/goodrating#readme"
+  "homepage": "https://github.com/robotnoises/goodrating#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
