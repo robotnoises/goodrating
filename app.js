@@ -10,10 +10,28 @@ app.listen(8080, () => {
   console.log('Server started.');
 });
 
+// API parent route
+let api = express.Router({mergeParams: true});
+app.use(config.API_ROOT, api);
+
 /**
  * API endpoints
  */
 
-app.get('/foo', (req, res) => {
-  res.send('yeah!');
+let recipe = require('./recipes');
+
+// Run the ratings engine for current year
+api.post('/run', (req, res) => {
+  res.json({
+    'year': config.CURRENT_YEAR
+  })
+});
+
+// Run the ratings engine for a certain year
+api.post('/run/:year', (req, res) => {
+  try {
+    recipe(req.params.year);
+  } catch(ex) {
+    res.json(ex);
+  }
 });
