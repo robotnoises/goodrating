@@ -3,6 +3,7 @@
 var fs = require('fs');
 var https = require('https');
 var enums = require('./../enums');
+
 /**
  * filepathHandler(location)
  * 
@@ -11,7 +12,19 @@ var enums = require('./../enums');
 
 function filepathHandler(location) {
   if (location) {
-    console.log('Not implemented yet');
+    return new Promise((resolve, reject) => {
+      fs.readFile(location, (error, data) => {
+        if (error) {
+          throw new Error(`Error reading file "${location}"`, error);
+        } else {
+          try {
+            resolve(JSON.parse(data));
+          } catch (ex) {
+            reject(ex)
+          }
+        }
+      });
+    });
   } else {
     throw new Error('Location is required.');
   }
@@ -56,9 +69,9 @@ function apiHandler(location) {
  */
 
 function getHandler(source) {
-  if (source && source === enums.SOURCE.FILEPATH) {
+  if (source === enums.SOURCE.FILEPATH) {
     return filepathHandler;
-  } else if (source && source === enums.SOURCE.API) {
+  } else if (source === enums.SOURCE.API) {
     return apiHandler;
   } else {
     throw new Error(`Source ${source} is unsupported`);
@@ -80,7 +93,7 @@ class Fetch {
   }
 
   at(location) {
-    if (this.source && this.handler) {
+    if (this.handler) {
       return this.handler(location);
     } else {
       throw new Error('Fetch must include a source (.by(source)).');
