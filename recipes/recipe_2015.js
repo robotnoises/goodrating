@@ -3,7 +3,7 @@
 let path = require('path');
 let config = require('./../config');
 let enums = require('./../enums');
-let mapDaddy = require('./../services/MapDaddy');
+let parse = require('./../services/Parse');
 let Fetch = require('./../services/Fetch');
 
 let fetchMe = new Fetch();
@@ -19,7 +19,7 @@ function getListOfSchools() {
 module.exports = () => {
   return getListOfSchools()
     .then((data) => {
-      let teams = mapDaddy.teamRecords(data.extractorData.data[0].group);
+      let teams = parse.teamRecords(data.extractorData.data[0].group);
       console.log(teams);
     })
     .catch((error) => {
