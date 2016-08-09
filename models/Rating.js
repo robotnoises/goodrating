@@ -5,9 +5,9 @@ class Rating {
   constructor (data) {
     this.name = data.name || '';
     this.win_percentage = data.win_percentage || 0.0;
-    this.rank_offense = data.rank_offense || 0;
-    this.rank_defense = data.rank_defense || 0;
-    this.rank_players = data.rank_players || 0;
+    this.ypp_offense = data.ypp_offense || 0;
+    this.ypp_defense = data.ypp_defense || 0;
+    this.recruiting_score = data.recruiting_score || 0;
     this.ats = data.ats || 0;
   }
 
@@ -30,3 +30,5 @@ class Rating {
   //   };
   // }
 }
+
+module.exports = Rating;
