@@ -1,6 +1,6 @@
 'use strict';
 
-class ObjectMapper {
+class ObjectUtils {
   
   constructor(object) { 
     this.object = object || null;
@@ -36,6 +36,15 @@ class ObjectMapper {
 
     return combined;
   }
+
+  toArray(Model) {
+    let array = [];
+    for (let key in this.object) {
+      let model = (Model) ? new Model(this.object[key]) : this.object[key];
+      array.push(model);
+    }
+    return array;
+  }
 }
 
-module.exports = ObjectMapper;
+module.exports = ObjectUtils;

@@ -5,7 +5,9 @@ let config = require('./../config');
 let enums = require('./../enums');
 let parse = require('./../services/Parse');
 let Fetch = require('./../services/Fetch');
-let ObjectMapper = require('./../services/ObjectMapper');
+let ObjectUtils = require('./../services/ObjectUtils');
+let Calc = require('./../services/Calc');
+let Rating = require('./../models/Rating');
 
 let fetchMe = new Fetch();
 
@@ -62,24 +64,29 @@ module.exports = () => {
         return getPlayerRanksFor('2014');
       })
       .then((data) => {
-        let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+        let oAdder = new ObjectUtils(parse.playerRanks(data.extractorData.data[0].group));
         pRatings = oAdder.add(pRatings, 'recruiting_score');
         return getPlayerRanksFor('2015');
       })
       .then((data) => {
-        let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+        let oAdder = new ObjectUtils(parse.playerRanks(data.extractorData.data[0].group));
         pRatings = oAdder.add(pRatings, 'recruiting_score');
         return getPlayerRanksFor('2016');
       })
       .then((data) => {
-        let adder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-        let combiner = new ObjectMapper();
+        let adder = new ObjectUtils(parse.playerRanks(data.extractorData.data[0].group));
+        let combiner = new ObjectUtils();
 
         pRatings = adder.add(pRatings, 'recruiting_score');
         return combiner.combine(teams, oStats, dStats, pRatings);
       })
       .then((combinedData) => {
-        resolve(combinedData);
+        let arrayer = new ObjectUtils(combinedData);
+        let calulator = new Calc(arrayer.toArray(Rating));
+
+        let calculated = calulator.ratings();
+        
+        resolve(calculated);
       })
       .catch((error) => {
         console.error(error);
