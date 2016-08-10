@@ -17,7 +17,7 @@ function teamRecords(data) {
   }, {});
 }
 
-function offensiveRanks(data) {
+function offensiveStats(data) {
   
   // Let's tame this data structure a bit...
   let arrayOfArrays = [];
@@ -41,7 +41,35 @@ function offensiveRanks(data) {
     }, {});
 }
 
+function defensiveStats(data) {
+  return data.reduce((prev, curr) =>{
+    let d = {
+      name: Convert.sentenceToWord(curr.name[0].text.toLowerCase()),
+      ypp_defense: parseFloat(curr.numyards_total[0].text) / parseFloat(curr.numplays_total[0].text)
+    };
+    
+    prev[d.name] = d;
+    
+    return prev;
+  }, {});
+}
+
+function playerRanks(data) {
+  return data.reduce((prev, curr) => {
+    let d = {
+      name: Convert.sentenceToWord(curr.name[0].text.toLowerCase()),
+      score: parseFloat(curr.score[0].text)
+    };
+
+    prev[d.name] = d;
+
+    return prev;
+  }, {});
+}
+
 module.exports = {
   teamRecords: teamRecords,
-  offensiveRanks: offensiveRanks
+  offensiveStats: offensiveStats,
+  defensiveStats: defensiveStats,
+  playerRanks: playerRanks
 }

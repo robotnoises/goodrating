@@ -5,6 +5,7 @@ let config = require('./../config');
 let enums = require('./../enums');
 let parse = require('./../services/Parse');
 let Fetch = require('./../services/Fetch');
+let ObjectMapper = require('./../services/ObjectMapper');
 
 let fetchMe = new Fetch();
 
@@ -16,10 +17,22 @@ function getListOfSchools() {
     .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'team_records', '2015.json'));
 }
 
-function getOffensiveRanks() {
+function getOffensiveStats() {
   return fetchMe
     .by(enums.SOURCE.FILEPATH)
     .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'team_offense', '2015.json'));
+}
+
+function getDefensiveStats() {
+  return fetchMe
+    .by(enums.SOURCE.FILEPATH)
+    .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'team_defense', '2015.json'));
+}
+
+function getPlayerRanksFor(year) {
+  return fetchMe
+    .by(enums.SOURCE.FILEPATH)
+    .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'player_rankings', `${year}.json`));
 }
 
 module.exports = () => {
@@ -32,11 +45,34 @@ module.exports = () => {
   return getListOfSchools()
     .then((data) => {
       teams = parse.teamRecords(data.extractorData.data[0].group);
-      return getOffensiveRanks();
+      return getOffensiveStats();
     })
     .then((data) => {
-      oRanks = parse.offensiveRanks(data.extractorData.data);
-      var foo;
+      oRanks = parse.offensiveStats(data.extractorData.data);
+      return getDefensiveStats();
+    })
+    .then((data) => {
+      dRanks = parse.defensiveStats(data.extractorData.data[0].group);
+      return getPlayerRanksFor('2013');
+    })
+    .then((data) => {
+      pRanks = parse.playerRanks(data.extractorData.data[0].group);
+      return getPlayerRanksFor('2014');
+    })
+    .then((data) => {
+      let mapper = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+      pRanks = mapper.add(pRanks);
+      return getPlayerRanksFor('2015');
+    })
+    .then((data) => {
+      let mapper = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+      pRanks = mapper.add(pRanks);
+      return getPlayerRanksFor('2016');
+    })
+    .then((data) => {
+      let mapper = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+      pRanks = mapper.add(pRanks);
+      debugger;
     })
     .catch((error) => {
       console.error(error);
