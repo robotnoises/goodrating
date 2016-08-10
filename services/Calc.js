@@ -36,12 +36,20 @@ class Calc {
     let pScoreSorted = this.sort('recruiting_score');
     this.pScoreCeil = pScoreSorted[0]['recruiting_score'];
 
+    function calculateRating(item) {
+      return (item.win_percentage_rating * 0.4) + 
+        (item.ypp_offense_rating * 0.2) + 
+        (item.ypp_defense_rating * 0.2) + 
+        (item.recruiting_score_rating * 0.2) + 
+        (item.ats)
+    }
+
     this.data.map((item) => {
       item.update('win_percentage_rating', this.normalize(item.win_percentage, this.winPercentageCeil));
       item.update('ypp_offense_rating', this.normalize(item.ypp_offense, this.oStatsCeil));
       item.update('ypp_defense_rating', this.normalize(item.ypp_defense, this.dStatsCeil, true));
       item.update('recruiting_score_rating', this.normalize(item.recruiting_score, this.pScoreCeil))
-      item.update('total_rating', item.win_percentage_rating + item.ypp_offense_rating + item.ypp_defense_rating + item.recruiting_score_rating + item.ats)
+      item.update('total_rating', calculateRating(item));
       
       return item;
     });
