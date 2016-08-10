@@ -63,24 +63,22 @@ module.exports = () => {
       })
       .then((data) => {
         let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-        pRatings = oAdder.add(pRatings);
+        pRatings = oAdder.add(pRatings, 'recruiting_score');
         return getPlayerRanksFor('2015');
       })
       .then((data) => {
         let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-        pRatings = oAdder.add(pRatings);
+        pRatings = oAdder.add(pRatings, 'recruiting_score');
         return getPlayerRanksFor('2016');
       })
       .then((data) => {
-        let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-        let oCombiner = new ObjectMapper();
+        let adder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+        let combiner = new ObjectMapper();
 
-        pRatings = oAdder.add(pRatings);
-        return oCombiner.combine(teams, oStats, dStats, pRatings);
+        pRatings = adder.add(pRatings, 'recruiting_score');
+        return combiner.combine(teams, oStats, dStats, pRatings);
       })
       .then((combinedData) => {
-        let tempCombinedCount = Object.keys(combinedData).length;
-        let tempTeamsCount = Object.keys(teams).length;
         resolve(combinedData);
       })
       .catch((error) => {

@@ -6,11 +6,11 @@ class ObjectMapper {
     this.object = object || null;
   }
 
-  add(obj) {
+  add(obj, prop) {
     
     for (let key in obj) {
       if (this.object.hasOwnProperty(key)) {
-        this.object[key].score = this.object[key].score + obj[key].score;
+        this.object[key][prop] = this.object[key][prop] + obj[key][prop];
       } else {
         this.object[key] = obj[key];
       }

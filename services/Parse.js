@@ -5,13 +5,14 @@ let Convert = require('./Convert');
 
 function teamRecords(data) {
   return data.reduce((prev, curr) =>{
+    let key = Convert.sentenceToWord(curr.name[0].text.toLowerCase());
     let d = {
-      name: Convert.sentenceToWord(curr.name[0].text.toLowerCase()),
+      name: curr.name[0].text,
       win_percentage: Convert.percentToFloat(curr.win_percentage[0].text),
       ats: Convert.stringToFloat(curr.ats[0].text)
     };
     
-    prev[d.name] = d;
+    prev[key] = d;
     
     return prev;
   }, {});
@@ -30,12 +31,13 @@ function offensiveStats(data) {
 
   return flattened
     .reduce((prev, curr) => {
+      let key = Convert.sentenceToWord(curr.name[0].text.toLowerCase());
       let d = {
-        name: Convert.sentenceToWord(curr.name[0].text.toLowerCase()),
+        name: curr.name[0].text,
         ypp_offense: parseFloat(curr.numyards_total[0].text) / parseFloat(curr.numplays_total[0].text)
       }
 
-      prev[d.name] = d;
+      prev[key] = d;
 
       return prev;
     }, {});
@@ -43,12 +45,13 @@ function offensiveStats(data) {
 
 function defensiveStats(data) {
   return data.reduce((prev, curr) =>{
+    let key = Convert.sentenceToWord(curr.name[0].text.toLowerCase());
     let d = {
-      name: Convert.sentenceToWord(curr.name[0].text.toLowerCase()),
+      name: curr.name[0].text,
       ypp_defense: parseFloat(curr.numyards_total[0].text) / parseFloat(curr.numplays_total[0].text)
     };
     
-    prev[d.name] = d;
+    prev[key] = d;
     
     return prev;
   }, {});
@@ -56,12 +59,13 @@ function defensiveStats(data) {
 
 function playerRanks(data) {
   return data.reduce((prev, curr) => {
+    let key = Convert.sentenceToWord(curr.name[0].text.toLowerCase());
     let d = {
-      name: Convert.sentenceToWord(curr.name[0].text.toLowerCase()),
-      score: parseFloat(curr.score[0].text)
+      name: curr.name[0].text,
+      recruiting_score: parseFloat(curr.score[0].text)
     };
 
-    prev[d.name] = d;
+    prev[key] = d;
 
     return prev;
   }, {});
