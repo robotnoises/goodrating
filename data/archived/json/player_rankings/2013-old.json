@@ -1,0 +1,916 @@
+{
+  "extractorData": {
+    "url": "http://247sports.com/Season/2013-Football/CompositeTeamRankings",
+    "resourceId": "e1d3ce7a655dbed75c26ec9ace69fbb8",
+    "data": [
+      {
+        "group": [
+          {
+            "rank": [
+              {
+                "text": "1"
+              }
+            ],
+            "name": [
+              {
+                "text": "Alabama",
+                "href": "http://alabama.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "319.48"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "2"
+              }
+            ],
+            "name": [
+              {
+                "text": "Ohio St",
+                "href": "http://ohiostate.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "303.27"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "3"
+              }
+            ],
+            "name": [
+              {
+                "text": "Florida",
+                "href": "http://florida.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "291.48"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "4"
+              }
+            ],
+            "name": [
+              {
+                "text": "Michigan",
+                "href": "http://michigan.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "289.15"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "5"
+              }
+            ],
+            "name": [
+              {
+                "text": "Notre Dame",
+                "href": "http://notredame.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "284.76"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "6"
+              }
+            ],
+            "name": [
+              {
+                "text": "LSU",
+                "href": "http://lsu.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "281.03"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "7"
+              }
+            ],
+            "name": [
+              {
+                "text": "UCLA",
+                "href": "http://ucla.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "276.26"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "8"
+              }
+            ],
+            "name": [
+              {
+                "text": "Mississippi",
+                "href": "http://olemiss.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "275.50"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "9"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas A&M",
+                "href": "http://tamu.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "267.79"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "10"
+              }
+            ],
+            "name": [
+              {
+                "text": "Auburn",
+                "href": "http://auburn.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "267.37"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "11"
+              }
+            ],
+            "name": [
+              {
+                "text": "Florida St",
+                "href": "http://floridastate.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "262.44"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "12"
+              }
+            ],
+            "name": [
+              {
+                "text": "Georgia",
+                "href": "http://georgia.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "260.38"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "13"
+              }
+            ],
+            "name": [
+              {
+                "text": "USC",
+                "href": "http://usc.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "256.42"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "14"
+              }
+            ],
+            "name": [
+              {
+                "text": "Miami (FL)",
+                "href": "http://miami.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "250.42"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "15"
+              }
+            ],
+            "name": [
+              {
+                "text": "Clemson",
+                "href": "http://clemson.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "249.51"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "16"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oklahoma",
+                "href": "http://oklahoma.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "241.41"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "17"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas",
+                "href": "http://texas.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "234.51"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "18"
+              }
+            ],
+            "name": [
+              {
+                "text": "Washington",
+                "href": "http://washington.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "234.44"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "19"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oregon",
+                "href": "http://oregon.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "227.70"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "20"
+              }
+            ],
+            "name": [
+              {
+                "text": "South Carolina",
+                "href": "http://southcarolina.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "223.67"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "21"
+              }
+            ],
+            "name": [
+              {
+                "text": "Virginia Tech",
+                "href": "http://virginiatech.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "223.02"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "22"
+              }
+            ],
+            "name": [
+              {
+                "text": "Nebraska",
+                "href": "http://nebraska.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "220.22"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "23"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arkansas",
+                "href": "http://arkansas.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "215.94"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "24"
+              }
+            ],
+            "name": [
+              {
+                "text": "Tennessee",
+                "href": "http://tennessee.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "213.57"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "25"
+              }
+            ],
+            "name": [
+              {
+                "text": "Mississippi St",
+                "href": "http://mississippistate.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "212.84"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "26"
+              }
+            ],
+            "name": [
+              {
+                "text": "Vanderbilt",
+                "href": "http://vanderbilt.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "210.75"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "27"
+              }
+            ],
+            "name": [
+              {
+                "text": "Baylor",
+                "href": "http://baylor.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "206.90"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "28"
+              }
+            ],
+            "name": [
+              {
+                "text": "North Carolina",
+                "href": "http://northcarolina.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "206.44"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "29"
+              }
+            ],
+            "name": [
+              {
+                "text": "Virginia",
+                "href": "http://virginia.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "203.20"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "30"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oklahoma St",
+                "href": "http://oklahomastate.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "200.80"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "31"
+              }
+            ],
+            "name": [
+              {
+                "text": "West Virginia",
+                "href": "http://westvirginia.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "200.75"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "32"
+              }
+            ],
+            "name": [
+              {
+                "text": "Pittsburgh",
+                "href": "http://pitt.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "195.37"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "33"
+              }
+            ],
+            "name": [
+              {
+                "text": "Penn St",
+                "href": "http://pennstate.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "195.03"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "34"
+              }
+            ],
+            "name": [
+              {
+                "text": "Kentucky",
+                "href": "http://kentucky.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "194.59"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "35"
+              }
+            ],
+            "name": [
+              {
+                "text": "Michigan St",
+                "href": "http://michiganstate.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "194.39"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "36"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas Christian",
+                "href": "http://tcu.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "194.38"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "37"
+              }
+            ],
+            "name": [
+              {
+                "text": "Louisville",
+                "href": "http://louisville.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "193.72"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "38"
+              }
+            ],
+            "name": [
+              {
+                "text": "Wisconsin",
+                "href": "http://wisconsin.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "191.24"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "39"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arizona St",
+                "href": "http://arizonastate.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "191.15"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "40"
+              }
+            ],
+            "name": [
+              {
+                "text": "California",
+                "href": "http://cal.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "190.82"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "41"
+              }
+            ],
+            "name": [
+              {
+                "text": "Maryland",
+                "href": "http://maryland.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "190.61"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "42"
+              }
+            ],
+            "name": [
+              {
+                "text": "Indiana",
+                "href": "http://indiana.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "188.56"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "43"
+              }
+            ],
+            "name": [
+              {
+                "text": "Missouri",
+                "href": "http://missouri.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "188.16"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "44"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arizona",
+                "href": "http://arizona.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "186.75"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "45"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oregon St",
+                "href": "http://oregonstate.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "186.45"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "46"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas Tech",
+                "href": "http://texastech.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "182.63"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "47"
+              }
+            ],
+            "name": [
+              {
+                "text": "Utah",
+                "href": "http://utah.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "180.94"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "48"
+              }
+            ],
+            "name": [
+              {
+                "text": "Kansas",
+                "href": "http://kansas.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "178.85"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "49"
+              }
+            ],
+            "name": [
+              {
+                "text": "Illinois",
+                "href": "http://illinois.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "177.60"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "50"
+              }
+            ],
+            "name": [
+              {
+                "text": "Rutgers",
+                "href": "http://rutgers.247sports.com/Season/2013-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "176.18"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pageData": {
+    "statusCode": 200,
+    "timestamp": 1470337221837
+  }
+}

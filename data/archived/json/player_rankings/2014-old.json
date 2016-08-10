@@ -1,0 +1,916 @@
+{
+  "extractorData": {
+    "url": "http://247sports.com/Season/2014-Football/CompositeTeamRankings",
+    "resourceId": "3b0f916e1cad846b86ab58f27acf897a",
+    "data": [
+      {
+        "group": [
+          {
+            "rank": [
+              {
+                "text": "1"
+              }
+            ],
+            "name": [
+              {
+                "text": "Alabama",
+                "href": "http://alabama.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "319.58"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "2"
+              }
+            ],
+            "name": [
+              {
+                "text": "LSU",
+                "href": "http://lsu.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "299.30"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "3"
+              }
+            ],
+            "name": [
+              {
+                "text": "Ohio St",
+                "href": "http://ohiostate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "296.06"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "4"
+              }
+            ],
+            "name": [
+              {
+                "text": "Florida St",
+                "href": "http://floridastate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "286.77"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "5"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas A&M",
+                "href": "http://tamu.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "278.25"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "6"
+              }
+            ],
+            "name": [
+              {
+                "text": "Auburn",
+                "href": "http://auburn.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "277.02"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "7"
+              }
+            ],
+            "name": [
+              {
+                "text": "Tennessee",
+                "href": "http://tennessee.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "274.76"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "8"
+              }
+            ],
+            "name": [
+              {
+                "text": "Georgia",
+                "href": "http://georgia.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "273.38"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "9"
+              }
+            ],
+            "name": [
+              {
+                "text": "Florida",
+                "href": "http://florida.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "267.75"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "10"
+              }
+            ],
+            "name": [
+              {
+                "text": "USC",
+                "href": "http://usc.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "264.21"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "11"
+              }
+            ],
+            "name": [
+              {
+                "text": "Notre Dame",
+                "href": "http://notredame.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "260.44"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "12"
+              }
+            ],
+            "name": [
+              {
+                "text": "Miami (FL)",
+                "href": "http://miami.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "255.80"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "13"
+              }
+            ],
+            "name": [
+              {
+                "text": "Stanford",
+                "href": "http://stanford.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "250.06"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "14"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oklahoma",
+                "href": "http://oklahoma.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "248.55"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "15"
+              }
+            ],
+            "name": [
+              {
+                "text": "Mississippi",
+                "href": "http://olemiss.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "241.12"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "16"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas",
+                "href": "http://texas.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "240.71"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "17"
+              }
+            ],
+            "name": [
+              {
+                "text": "Clemson",
+                "href": "http://clemson.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "240.66"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "18"
+              }
+            ],
+            "name": [
+              {
+                "text": "UCLA",
+                "href": "http://ucla.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "239.47"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "19"
+              }
+            ],
+            "name": [
+              {
+                "text": "South Carolina",
+                "href": "http://southcarolina.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "239.46"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "20"
+              }
+            ],
+            "name": [
+              {
+                "text": "Michigan",
+                "href": "http://michigan.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "233.57"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "21"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oregon",
+                "href": "http://oregon.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "232.45"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "22"
+              }
+            ],
+            "name": [
+              {
+                "text": "Kentucky",
+                "href": "http://kentucky.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "225.45"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "23"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arizona St",
+                "href": "http://arizonastate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "222.47"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "24"
+              }
+            ],
+            "name": [
+              {
+                "text": "Penn St",
+                "href": "http://pennstate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "222.38"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "25"
+              }
+            ],
+            "name": [
+              {
+                "text": "Michigan St",
+                "href": "http://michiganstate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "217.41"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "26"
+              }
+            ],
+            "name": [
+              {
+                "text": "Baylor",
+                "href": "http://baylor.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "217.00"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "27"
+              }
+            ],
+            "name": [
+              {
+                "text": "Virginia Tech",
+                "href": "http://virginiatech.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "216.97"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "28"
+              }
+            ],
+            "name": [
+              {
+                "text": "Oklahoma St",
+                "href": "http://oklahomastate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "216.48"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "29"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arkansas",
+                "href": "http://arkansas.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "215.62"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "30"
+              }
+            ],
+            "name": [
+              {
+                "text": "Arizona",
+                "href": "http://arizona.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "211.66"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "31"
+              }
+            ],
+            "name": [
+              {
+                "text": "North Carolina",
+                "href": "http://northcarolina.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "211.63"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "32"
+              }
+            ],
+            "name": [
+              {
+                "text": "Virginia",
+                "href": "http://virginia.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "204.94"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "33"
+              }
+            ],
+            "name": [
+              {
+                "text": "Wisconsin",
+                "href": "http://wisconsin.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "204.85"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "34"
+              }
+            ],
+            "name": [
+              {
+                "text": "North Carolina St",
+                "href": "http://ncstate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "200.91"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "35"
+              }
+            ],
+            "name": [
+              {
+                "text": "Mississippi St",
+                "href": "http://mississippistate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "200.03"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "36"
+              }
+            ],
+            "name": [
+              {
+                "text": "Nebraska",
+                "href": "http://nebraska.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "197.83"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "37"
+              }
+            ],
+            "name": [
+              {
+                "text": "Washington",
+                "href": "http://washington.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "197.58"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "38"
+              }
+            ],
+            "name": [
+              {
+                "text": "West Virginia",
+                "href": "http://westvirginia.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "196.51"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "39"
+              }
+            ],
+            "name": [
+              {
+                "text": "Missouri",
+                "href": "http://missouri.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "195.14"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "40"
+              }
+            ],
+            "name": [
+              {
+                "text": "Maryland",
+                "href": "http://maryland.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "191.72"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "41"
+              }
+            ],
+            "name": [
+              {
+                "text": "USF",
+                "href": "http://southflorida.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "190.54"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "42"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas Tech",
+                "href": "http://texastech.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "190.12"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "43"
+              }
+            ],
+            "name": [
+              {
+                "text": "Texas Christian",
+                "href": "http://tcu.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "188.06"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "44"
+              }
+            ],
+            "name": [
+              {
+                "text": "Pittsburgh",
+                "href": "http://pitt.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "184.56"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "45"
+              }
+            ],
+            "name": [
+              {
+                "text": "Louisville",
+                "href": "http://louisville.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "183.93"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "46"
+              }
+            ],
+            "name": [
+              {
+                "text": "Vanderbilt",
+                "href": "http://vanderbilt.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "183.62"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "47"
+              }
+            ],
+            "name": [
+              {
+                "text": "Northwestern",
+                "href": "http://northwestern.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "182.10"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "48"
+              }
+            ],
+            "name": [
+              {
+                "text": "Indiana",
+                "href": "http://indiana.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "180.15"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "49"
+              }
+            ],
+            "name": [
+              {
+                "text": "Kansas St",
+                "href": "http://kansasstate.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "177.47"
+              }
+            ]
+          },
+          {
+            "rank": [
+              {
+                "text": "50"
+              }
+            ],
+            "name": [
+              {
+                "text": "Syracuse",
+                "href": "http://syracuse.247sports.com/Season/2014-Football/Commits"
+              }
+            ],
+            "score": [
+              {
+                "text": "176.80"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pageData": {
+    "statusCode": 200,
+    "timestamp": 1470338157194
+  }
+}
