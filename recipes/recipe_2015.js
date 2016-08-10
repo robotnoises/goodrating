@@ -42,39 +42,47 @@ module.exports = () => {
   let dRanks = {};
   let pRanks = {};
 
-  return getListOfSchools()
-    .then((data) => {
-      teams = parse.teamRecords(data.extractorData.data[0].group);
-      return getOffensiveStats();
-    })
-    .then((data) => {
-      oRanks = parse.offensiveStats(data.extractorData.data);
-      return getDefensiveStats();
-    })
-    .then((data) => {
-      dRanks = parse.defensiveStats(data.extractorData.data[0].group);
-      return getPlayerRanksFor('2013');
-    })
-    .then((data) => {
-      pRanks = parse.playerRanks(data.extractorData.data[0].group);
-      return getPlayerRanksFor('2014');
-    })
-    .then((data) => {
-      let mapper = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-      pRanks = mapper.add(pRanks);
-      return getPlayerRanksFor('2015');
-    })
-    .then((data) => {
-      let mapper = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-      pRanks = mapper.add(pRanks);
-      return getPlayerRanksFor('2016');
-    })
-    .then((data) => {
-      let mapper = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-      pRanks = mapper.add(pRanks);
-      debugger;
-    })
-    .catch((error) => {
-      console.error(error);
-    })
+  return new Promise((resolve, reject) => {
+    getListOfSchools()
+      .then((data) => {
+        teams = parse.teamRecords(data.extractorData.data[0].group);
+        return getOffensiveStats();
+      })
+      .then((data) => {
+        oRanks = parse.offensiveStats(data.extractorData.data);
+        return getDefensiveStats();
+      })
+      .then((data) => {
+        dRanks = parse.defensiveStats(data.extractorData.data[0].group);
+        return getPlayerRanksFor('2013');
+      })
+      .then((data) => {
+        pRanks = parse.playerRanks(data.extractorData.data[0].group);
+        return getPlayerRanksFor('2014');
+      })
+      .then((data) => {
+        let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+        pRanks = oAdder.add(pRanks);
+        return getPlayerRanksFor('2015');
+      })
+      .then((data) => {
+        let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+        pRanks = oAdder.add(pRanks);
+        return getPlayerRanksFor('2016');
+      })
+      .then((data) => {
+        let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
+        pRanks = oAdder.add(pRanks);
+
+        let oCombiner = new ObjectMapper();
+        return oCombiner.combine(teams, oRanks, dRanks, pRanks);
+      })
+      .then((combinedData) => {
+        resolve(combinedData);
+      })
+      .catch((error) => {
+        console.error(error);
+        reject(error);
+      })
+  });
 };

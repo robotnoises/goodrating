@@ -30,7 +30,9 @@ api.post('/run', (req, res) => {
 // Run the ratings engine for a certain year
 api.post('/run/:year', (req, res) => {
   try {
-    recipe(req.params.year);
+    recipe(req.params.year)
+      .then((data) => res.json(data))
+      .catch((error) => res.json({ 'error': error }))
   } catch(ex) {
     res.json(ex);
   }

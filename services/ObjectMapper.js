@@ -3,7 +3,7 @@
 class ObjectMapper {
   
   constructor(object) { 
-    this.object = object;
+    this.object = object || null;
   }
 
   add(obj) {
@@ -17,6 +17,24 @@ class ObjectMapper {
     }
 
     return this.object;
+  }
+
+  combine() {
+    let objsToCombine = Array.prototype.slice.call(arguments, this.combine.length);
+    let combined = objsToCombine[0];
+    
+    // This is bad... O(n^2)...
+    for (var i = 1, max = objsToCombine.length; i < max; i++) {
+      for (let key in objsToCombine[i]) {
+        if (combined.hasOwnProperty(key)) {
+          combined[key] = Object.assign(combined[key], objsToCombine[i][key])
+        } else {
+          combined[key] = objsToCombine[i][key];
+        }
+      }
+    }
+
+    return combined;
   }
 }
 
