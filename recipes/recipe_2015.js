@@ -60,21 +60,21 @@ module.exports = () => {
         return getPlayerRanksFor('2013');
       })
       .then((data) => {
-        pRatings = parse.playerRanks(data.extractorData.data[0].group);
+        pRatings = parse.playerRanks(data.extractorData.data);
         return getPlayerRanksFor('2014');
       })
       .then((data) => {
-        let oAdder = new ObjectUtils(parse.playerRanks(data.extractorData.data[0].group));
+        let oAdder = new ObjectUtils(parse.playerRanks(data.extractorData.data));
         pRatings = oAdder.add(pRatings, 'recruiting_score');
         return getPlayerRanksFor('2015');
       })
       .then((data) => {
-        let oAdder = new ObjectUtils(parse.playerRanks(data.extractorData.data[0].group));
+        let oAdder = new ObjectUtils(parse.playerRanks(data.extractorData.data));
         pRatings = oAdder.add(pRatings, 'recruiting_score');
         return getPlayerRanksFor('2016');
       })
       .then((data) => {
-        let adder = new ObjectUtils(parse.playerRanks(data.extractorData.data[0].group));
+        let adder = new ObjectUtils(parse.playerRanks(data.extractorData.data));
         let combiner = new ObjectUtils();
 
         pRatings = adder.add(pRatings, 'recruiting_score');
