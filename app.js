@@ -31,8 +31,14 @@ let recipe = require('./recipes');
 api.post('/run/:year', (req, res) => {
   try {
     recipe(req.params.year)
-      .then((data) => res.json(data))
-      .catch((error) => res.json({ 'error': error }))
+      .then((data) => {
+        res.status(200);
+        res.json(data);
+      })
+      .catch((error) => {
+        res.status(404);
+        res.json({ 'error': error })
+      });
   } catch(ex) {
     res.json(ex);
   }

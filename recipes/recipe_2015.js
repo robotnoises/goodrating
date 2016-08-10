@@ -36,48 +36,51 @@ function getPlayerRanksFor(year) {
 }
 
 module.exports = () => {
-  
-  let teams = {};
-  let oRanks = {};
-  let dRanks = {};
-  let pRanks = {};
 
   return new Promise((resolve, reject) => {
+      
+    let teams = {};
+    let oStats = {};
+    let dStats = {};
+    let pRatings = {};
+
     getListOfSchools()
       .then((data) => {
         teams = parse.teamRecords(data.extractorData.data[0].group);
         return getOffensiveStats();
       })
       .then((data) => {
-        oRanks = parse.offensiveStats(data.extractorData.data);
+        oStats = parse.offensiveStats(data.extractorData.data);
         return getDefensiveStats();
       })
       .then((data) => {
-        dRanks = parse.defensiveStats(data.extractorData.data[0].group);
+        dStats = parse.defensiveStats(data.extractorData.data[0].group);
         return getPlayerRanksFor('2013');
       })
       .then((data) => {
-        pRanks = parse.playerRanks(data.extractorData.data[0].group);
+        pRatings = parse.playerRanks(data.extractorData.data[0].group);
         return getPlayerRanksFor('2014');
       })
       .then((data) => {
         let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-        pRanks = oAdder.add(pRanks);
+        pRatings = oAdder.add(pRatings);
         return getPlayerRanksFor('2015');
       })
       .then((data) => {
         let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-        pRanks = oAdder.add(pRanks);
+        pRatings = oAdder.add(pRatings);
         return getPlayerRanksFor('2016');
       })
       .then((data) => {
         let oAdder = new ObjectMapper(parse.playerRanks(data.extractorData.data[0].group));
-        pRanks = oAdder.add(pRanks);
-
         let oCombiner = new ObjectMapper();
-        return oCombiner.combine(teams, oRanks, dRanks, pRanks);
+
+        pRatings = oAdder.add(pRatings);
+        return oCombiner.combine(teams, oStats, dStats, pRatings);
       })
       .then((combinedData) => {
+        let tempCombinedCount = Object.keys(combinedData).length;
+        let tempTeamsCount = Object.keys(teams).length;
         resolve(combinedData);
       })
       .catch((error) => {
