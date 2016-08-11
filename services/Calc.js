@@ -55,7 +55,7 @@ class Calc {
       return item;
     });
 
-    let sortByColumn = maps.COLUMN[sortBy] || maps.COLUMN.TOTAL_RATING;
+    let sortByColumn = maps.COLUMN[sortBy.toUpperCase()] || maps.COLUMN.TOTAL_RATING;
     
     return this.sort(sortByColumn);
   }

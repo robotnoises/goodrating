@@ -30,7 +30,7 @@ let recipe = require('./recipes');
 // Run the ratings engine for a certain year
 api.post('/run/:year', (req, res) => {
   try {
-    recipe(req.params.year)
+    recipe(req.params.year, req.query)
       .then((data) => {
         res.status(200);
         res.json(data);
