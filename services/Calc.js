@@ -38,9 +38,9 @@ class Calc {
 
     function calculateRating(item) {
       return (item.win_percentage_rating * 0.4) + 
-        (item.ypp_offense_rating * 0.2) + 
+        (item.ypp_offense_rating * 0.15) + 
         (item.ypp_defense_rating * 0.2) + 
-        (item.recruiting_score_rating * 0.2) + 
+        (item.recruiting_score_rating * 0.25) + 
         (item.ats)
     }
 
