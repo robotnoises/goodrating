@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 var https = require('https');
-var enums = require('./../enums');
+var maps = require('./../maps');
 
 /**
  * filepathHandler(location)
@@ -69,9 +69,9 @@ function apiHandler(location) {
  */
 
 function getHandler(source) {
-  if (source === enums.SOURCE.FILEPATH) {
+  if (source === maps.SOURCE.FILEPATH) {
     return filepathHandler;
-  } else if (source === enums.SOURCE.API) {
+  } else if (source === maps.SOURCE.API) {
     return apiHandler;
   } else {
     throw new Error(`Source ${source} is unsupported`);

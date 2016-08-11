@@ -2,7 +2,7 @@
 
 let path = require('path');
 let config = require('./../config');
-let enums = require('./../enums');
+let maps = require('./../maps');
 let parse = require('./../services/Parse');
 let Fetch = require('./../services/Fetch');
 let ObjectUtils = require('./../services/ObjectUtils');
@@ -15,25 +15,25 @@ let fetchMe = new Fetch();
 
 function getListOfSchools() {
   return fetchMe
-    .by(enums.SOURCE.FILEPATH)
+    .by(maps.SOURCE.FILEPATH)
     .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'team_records', '2015.json'));
 }
 
 function getOffensiveStats() {
   return fetchMe
-    .by(enums.SOURCE.FILEPATH)
+    .by(maps.SOURCE.FILEPATH)
     .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'team_offense', '2015.json'));
 }
 
 function getDefensiveStats() {
   return fetchMe
-    .by(enums.SOURCE.FILEPATH)
+    .by(maps.SOURCE.FILEPATH)
     .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'team_defense', '2015.json'));
 }
 
 function getPlayerRanksFor(year) {
   return fetchMe
-    .by(enums.SOURCE.FILEPATH)
+    .by(maps.SOURCE.FILEPATH)
     .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'player_rankings', `${year}.json`));
 }
 

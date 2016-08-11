@@ -1,5 +1,7 @@
 'use strict';
 
+let maps = require('./../maps');
+
 class Calc {
 
   constructor(array) {
@@ -14,7 +16,6 @@ class Calc {
     this.data.sort((a, b) => {
       return b[prop] - a[prop];
     });
-
     return this.data;
   }
 
@@ -23,18 +24,19 @@ class Calc {
     return (invert) ? 100.0 - (normalized - 100.0) : normalized;
   }
 
-  ratings() {
-    let wpSorted = this.sort('win_percentage');
-    this.winPercentageCeil = wpSorted[0]['win_percentage'];
+  ratings(sortBy) {
     
-    let oStatsSorted = this.sort('ypp_offense');
-    this.oStatsCeil = oStatsSorted[0]['ypp_offense'];
+    let wpSorted = this.sort(maps.COLUMN.WIN_PERCENTAGE);
+    this.winPercentageCeil = wpSorted[0][maps.COLUMN.WIN_PERCENTAGE];
+    
+    let oStatsSorted = this.sort(maps.COLUMN.YPP_OFFENSE);
+    this.oStatsCeil = oStatsSorted[0][maps.COLUMN.YPP_OFFENSE];
 
-    let dStatsSorted = this.sort('ypp_defense');
-    this.dStatsCeil = dStatsSorted[dStatsSorted.length - 1]['ypp_defense'];
+    let dStatsSorted = this.sort(maps.COLUMN.YPP_DEFENSE);
+    this.dStatsCeil = dStatsSorted[dStatsSorted.length - 1][maps.COLUMN.YPP_DEFENSE];
 
-    let pScoreSorted = this.sort('recruiting_score');
-    this.pScoreCeil = pScoreSorted[0]['recruiting_score'];
+    let pScoreSorted = this.sort(maps.COLUMN.RECRUITING_SCORE);
+    this.pScoreCeil = pScoreSorted[0][maps.COLUMN.RECRUITING_SCORE];
 
     function calculateRating(item) {
       return (item.win_percentage_rating * 0.45) + 
@@ -45,16 +47,17 @@ class Calc {
     }
 
     this.data.map((item) => {
-      item.update('win_percentage_rating', this.normalize(item.win_percentage, this.winPercentageCeil));
-      item.update('ypp_offense_rating', this.normalize(item.ypp_offense, this.oStatsCeil));
-      item.update('ypp_defense_rating', this.normalize(item.ypp_defense, this.dStatsCeil, true));
-      item.update('recruiting_score_rating', this.normalize(item.recruiting_score, this.pScoreCeil))
-      item.update('total_rating', calculateRating(item));
-      
+      item.update(maps.COLUMN.WIN_PERCENTAGE_RATING, this.normalize(item.win_percentage, this.winPercentageCeil));
+      item.update(maps.COLUMN.YPP_OFFENSE_RATING, this.normalize(item.ypp_offense, this.oStatsCeil));
+      item.update(maps.COLUMN.YPP_DEFENSE_RATING, this.normalize(item.ypp_defense, this.dStatsCeil, true));
+      item.update(maps.COLUMN.RECRUITING_SCORE_RATING, this.normalize(item.recruiting_score, this.pScoreCeil))
+      item.update(maps.COLUMN.TOTAL_RATING, calculateRating(item));
       return item;
     });
 
-    return this.sort('total_rating');
+    let sortByColumn = maps.COLUMN[sortBy] || maps.COLUMN.TOTAL_RATING;
+    
+    return this.sort(sortByColumn);
   }
 }
 

@@ -5,7 +5,9 @@ let Convert = require('./Convert');
 let teamName = require('./TeamName');
 
 function teamRecords(data) {
+  
   return data.reduce((prev, curr) =>{
+    
     let name = teamName.normalize(curr.name[0].text);
     let key = Convert.sentenceToWord(name.toLowerCase());
     let d = {
@@ -33,6 +35,7 @@ function offensiveStats(data) {
 
   return flattened
     .reduce((prev, curr) => {
+      
       let name = teamName.normalize(curr.name[0].text);
       let key = Convert.sentenceToWord(name.toLowerCase());
       let d = {
@@ -47,7 +50,9 @@ function offensiveStats(data) {
 }
 
 function defensiveStats(data) {
+  
   return data.reduce((prev, curr) => {
+    
     let name = teamName.normalize(curr.name[0].text);
     let key = Convert.sentenceToWord(name.toLowerCase());
     let d = {
@@ -73,6 +78,7 @@ function playerRanks(data) {
   let flattened = [].concat.apply([], arrayOfArrays);
 
   return flattened.reduce((prev, curr) => {
+    
     let name = teamName.normalize(curr.name[0].text);
     let key = Convert.sentenceToWord(name.toLowerCase());
     let d = {
