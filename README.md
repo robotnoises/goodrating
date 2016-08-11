@@ -8,10 +8,10 @@ Todo
 
 ## Methodology (wip)
 
-1. Winning percentage (40%)
+1. Winning percentage (45%)
 2. Adjusted Offense rating (15%)
 3. Adjusted Defense rating (20%)
-4. Adjusted Player rating (25%)
+4. Adjusted Player rating (20%)
 
 Finally, take the sum of above and adjust using the team's performance relative to expectation, i.e. (+/-) against the spread.
 
