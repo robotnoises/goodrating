@@ -21,14 +21,14 @@ app.use(config.API_ROOT, api);
 let recipe = require('./recipes');
 
 // Run the ratings engine for current year
-// api.post('/run', (req, res) => {
-//   res.json({
-//     'year': config.CURRENT_YEAR
-//   })
-// });
+api.post('/calc', (req, res) => {
+  res.json({
+    'year': config.CURRENT_YEAR
+  })
+});
 
 // Run the ratings engine for a certain year
-api.post('/run/:year', (req, res) => {
+api.post('/calc/:year', (req, res) => {
   try {
     recipe(req.params.year, req.query)
       .then((data) => {
