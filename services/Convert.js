@@ -11,7 +11,7 @@ function stringToFloat(str) {
 }
 
 function sentenceToWord(sentence) {
-  return sentence.split(' ').join('');
+  return sentence.replace(/[\s\(\)&]/gi, '');
 }
 
 module.exports = {
