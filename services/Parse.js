@@ -41,6 +41,7 @@ function offensiveStats(data) {
       let key = Convert.sentenceToWord(name.toLowerCase());
       let d = {
         name: name,
+        slug: key,
         ypp_offense: parseFloat(curr.numyards_total[0].text) / parseFloat(curr.numplays_total[0].text)
       }
 
@@ -58,6 +59,7 @@ function defensiveStats(data) {
     let key = Convert.sentenceToWord(name.toLowerCase());
     let d = {
       name: name,
+      slug: key,
       ypp_defense: parseFloat(curr.numyards_total[0].text) / parseFloat(curr.numplays_total[0].text)
     };
     
@@ -84,6 +86,7 @@ function playerRanks(data) {
     let key = Convert.sentenceToWord(name.toLowerCase());
     let d = {
       name: name,
+      slug: key,
       recruiting_score: parseFloat(curr.score[0].text)
     };
 

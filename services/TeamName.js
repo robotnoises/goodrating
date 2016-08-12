@@ -4,6 +4,8 @@ const nameMap = {
   'n.c. state': 'North Carolina State',
   'southern methodist': 'SMU',
   'texas-san antonio': 'Texas San Antonio',
+  'texas el pase': 'UTEP',
+  'texas-el pase': 'UTEP',
   'mississippi': 'Ole Miss',
   'brigham young': 'BYU',
   'utep': 'Texas El Paso',
