@@ -6,7 +6,7 @@ let app = express();
 
 console.log('Starting.');
 
-app.listen(12345, () => {
+app.listen(process.env.PORT || 12345, () => {
   console.log('Server started.');
 });
 
