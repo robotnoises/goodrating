@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/robotnoises/goodrating#readme",
   "dependencies": {
+    "cors": "^2.7.1",
     "express": "^4.14.0"
   }
 }

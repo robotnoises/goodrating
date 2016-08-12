@@ -2,6 +2,7 @@
 
 let config = require('./config');
 let express = require('express');
+let cors = require('cors');
 let app = express();
 
 console.log('Starting.');
@@ -12,7 +13,9 @@ app.listen(process.env.PORT || 12345, () => {
 
 // API parent route
 let api = express.Router({ mergeParams: true });
+
 app.use(config.API_ROOT, api);
+app.use(cors());
 
 /**
  * API endpoints
