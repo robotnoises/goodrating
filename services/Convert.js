@@ -11,7 +11,7 @@ function stringToFloat(str) {
 }
 
 function sentenceToWord(sentence) {
-  return sentence.split(' ').join('_');
+  return sentence.split(' ').join('');
 }
 
 module.exports = {

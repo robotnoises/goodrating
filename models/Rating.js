@@ -4,6 +4,7 @@ class Rating {
   
   constructor (data) {
     this.name = data.name || '';
+    this.slug = data.slug|| '';
     this.win_percentage = data.win_percentage || 0.0;
     this.ypp_offense = data.ypp_offense || 0;
     this.ypp_defense = data.ypp_defense || 8.0;

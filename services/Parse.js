@@ -12,6 +12,7 @@ function teamRecords(data) {
     let key = Convert.sentenceToWord(name.toLowerCase());
     let d = {
       name: name,
+      slug: key,
       win_percentage: Convert.percentToFloat(curr.win_percentage[0].text),
       ats: Convert.stringToFloat(curr.ats[0].text)
     };
