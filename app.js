@@ -17,6 +17,19 @@ let api = express.Router({ mergeParams: true });
 app.use(config.API_ROOT, api);
 app.use(cors());
 
+// Add headers
+app.use(function (req, res, next) {
+
+    // Website you wish to allow to connect
+    res.setHeader('Access-Control-Allow-Origin', process.env.WHITELIST_URL || '*');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'POST');
+
+    // Pass to next layer of middleware
+    next();
+});
+
 /**
  * API endpoints
  */
