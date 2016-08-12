@@ -1,12 +1,10 @@
 'use strict';
 
 const nameMap = {
-  'usf': 'South Florida',
-  'ucf': 'Central Florida',
   'n.c. state': 'North Carolina State',
-  'smu': 'Southern Methodist',
+  'southern methodist': 'SMU',
   'texas-san antonio': 'Texas San Antonio',
-  'ole miss': 'Mississippi',
+  'mississippi': 'Ole Miss',
   'brigham young': 'BYU',
   'utep': 'Texas El Paso',
   'fiu': 'Florida International',
@@ -16,7 +14,12 @@ const nameMap = {
   'miami (fl)': 'Miami',
   'louisiana-monroe': 'Louisiana Monroe',
   'louisiana-lafayette': 'Louisiana Lafayette',
-  'southern miss': 'Southern Mississippi'
+  'southern miss': 'Southern Mississippi',
+  'south florida': 'USF',
+  'central florida': 'UCF',
+  'boston': 'Boston College',
+  'boston col': this.boston,
+  'connecticut': 'UConn'
 };
 
 function normalize(name) {
