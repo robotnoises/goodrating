@@ -19,6 +19,13 @@ class Calc {
     return this.data;
   }
 
+  rank() {
+    this.data.map((item, i) => {
+      return item.rank = i + 1;
+    });
+    return this.data;
+  }
+
   normalize(input, to, invert) {
     let normalized = parseFloat((input / to) * 100.0);
     return (invert) ? 100.0 - (normalized - 100.0) : normalized;
@@ -57,7 +64,8 @@ class Calc {
 
     let sortByColumn = maps.COLUMN[sortBy.toUpperCase()] || maps.COLUMN.TOTAL_RATING;
     
-    return this.sort(sortByColumn);
+    let sorted = this.sort(sortByColumn);
+    return this.rank(sorted);
   }
 }
 
