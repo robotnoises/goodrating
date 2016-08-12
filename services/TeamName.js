@@ -8,7 +8,6 @@ const nameMap = {
   'texas-el paso': 'UTEP',
   'mississippi': 'Ole Miss',
   'brigham young': 'BYU',
-  'utep': 'Texas El Paso',
   'fiu': 'Florida International',
   'fau': 'Florida Atlantic',
   'bowling green': 'Bowling Green State',
