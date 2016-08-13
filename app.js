@@ -18,10 +18,10 @@ app.use(config.API_ROOT, api);
 app.use(cors());
 
 // Add headers
-app.use(function (req, res, next) {
+app.use((req, res, next) => {
 
     // Website you wish to allow to connect
-    res.setHeader('Access-Control-Allow-Origin', process.env.WHITELIST_URL || '*');
+    res.setHeader('Access-Control-Allow-Origin', '*');
 
     // Request methods you wish to allow
     res.setHeader('Access-Control-Allow-Methods', 'POST');
