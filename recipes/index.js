@@ -10,6 +10,6 @@ module.exports = (year, params) => {
     case '2016':
       return recipe_2016(params);
     default:
-      return Promise.reject(`No recipe for the year ${year}`);
+      return Promise.reject(`No data for the year ${year}`);
   }
 }
