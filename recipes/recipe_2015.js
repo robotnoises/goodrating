@@ -85,9 +85,8 @@ module.exports = (query, week) => {
       .then((combinedData) => {
         let arrayer = new ObjectUtils(combinedData);
         let calulator = new Calc(arrayer.toArray(Rating));
-        let calculated = calulator.ratings(sortBy);
         
-        resolve(calculated);
+        resolve(calulator.ratings(sortBy));
       })
       .catch((error) => {
         console.error(error);

@@ -1,11 +1,13 @@
 'use strict';
 
 let maps = require('./../maps');
+let Weights = require('./../models/Weights');
 
 class Calc {
 
-  constructor(array) {
+  constructor(array, weights) {
     this.data = array;
+    this.weights = new Weights(weights);
     this.winPercentageCeil = 0.0;
     this.oStatsCeil = 0.0;
     this.dStatsCeil = 0.0;
@@ -46,10 +48,10 @@ class Calc {
     this.pScoreCeil = pScoreSorted[0][maps.COLUMN.RECRUITING_SCORE];
 
     function calculateRating(item) {
-      return (item.win_percentage_rating * 0.45) + 
-        (item.ypp_offense_rating * 0.15) + 
-        (item.ypp_defense_rating * 0.2) + 
-        (item.recruiting_score_rating * 0.2) + 
+      return (item.win_percentage_rating * this.weights.win_percentage_weight) + 
+        (item.ypp_offense_rating * this.weights.ypp_offense_weight) + 
+        (item.ypp_defense_rating * this.weights.ypp_defense_weight) + 
+        (item.recruiting_score_rating * this.weights.recruiting_score_weight) + 
         (item.ats)
     }
 
@@ -58,7 +60,7 @@ class Calc {
       item.update(maps.COLUMN.YPP_OFFENSE_RATING, this.normalize(item.ypp_offense, this.oStatsCeil));
       item.update(maps.COLUMN.YPP_DEFENSE_RATING, this.normalize(item.ypp_defense, this.dStatsCeil, true));
       item.update(maps.COLUMN.RECRUITING_SCORE_RATING, this.normalize(item.recruiting_score, this.pScoreCeil))
-      item.update(maps.COLUMN.TOTAL_RATING, calculateRating(item));
+      item.update(maps.COLUMN.TOTAL_RATING, calculateRating.call(this, item));
       return item;
     });
 
