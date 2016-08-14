@@ -64,10 +64,11 @@ class Calc {
       return item;
     });
 
+    // Sort the data
     let sortByColumn = maps.COLUMN[sortBy.toUpperCase()] || maps.COLUMN.TOTAL_RATING;
-    
-    let sorted = this.sort(sortByColumn);
-    return this.rank(sorted);
+    let sorted = this.sort(maps.COLUMN.TOTAL_RATING);    
+    let ranked = this.rank(sorted);
+    return (sortByColumn === maps.COLUMN.TOTAL_RATING) ? this.data : this.sort(sortByColumn)
   }
 }
 
