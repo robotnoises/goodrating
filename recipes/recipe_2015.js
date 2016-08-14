@@ -37,9 +37,9 @@ function getPlayerRanksFor(year) {
     .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'player_rankings', `${year}.json`));
 }
 
-module.exports = (params) => {
+module.exports = (query, week) => {
 
-  let sortBy = params.sortby || '';
+  let sortBy = query.sortby || '';
 
   return new Promise((resolve, reject) => {
       

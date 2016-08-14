@@ -14,28 +14,29 @@ app.listen(process.env.PORT || 12345, () => {
 // Enable cross-origin requests
 app.use(cors());
 
-// API parent route
-let api = express.Router({ mergeParams: true });
-
-app.use(config.API_ROOT, api);
-
 /**
  * API endpoints
  */
 
-let recipe = require('./recipes');
+// API parent route
 
-function calc(year, qs) {
+let RequestParams = require('./models/RequestParams');
+let recipe = require('./recipes');
+let api = express.Router({ mergeParams: true });
+
+app.use(config.API_ROOT, api);
+
+function calc(year, week, query) {
   try {
-    return recipe(year, qs);
+    return recipe(year, week, query);
   } catch(ex) {
     return Promise.reject(ex);
   }
 }
 
 // Run the ratings engine for current year
-api.post('/calc', (req, res) => {
-  calc(config.CURRENT_YEAR, req.query)
+api.get('/calc', (req, res) => {
+  calc(new RequestParams(req.query))
     .then((data) => {
       res.status(200);
       res.json(data);
@@ -47,8 +48,8 @@ api.post('/calc', (req, res) => {
 });
 
 // Run the ratings engine for a certain year
-api.post('/calc/:year', (req, res) => {
-  calc(req.params.year, req.query)
+api.get('/calc/:year', (req, res) => {
+  calc(new RequestParams(req.query, req.params.year))
     .then((data) => {
       res.status(200);
       res.json(data);
@@ -58,3 +59,15 @@ api.post('/calc/:year', (req, res) => {
       res.json({ 'error': error })
     });
 });
+
+api.get('/calc/:year/:week', (req, res) => {
+  calc(new RequestParams(req.query, req.params.year, req.params.week))
+    .then((data) => {
+      res.status(200);
+      res.json(data);
+    })
+    .catch((error) => {
+      res.status(404);
+      res.json({ 'error': error })
+    });
+})
