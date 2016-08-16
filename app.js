@@ -60,14 +60,14 @@ api.get('/calc/:year', (req, res) => {
     });
 });
 
-api.get('/calc/:year/:week', (req, res) => {
-  calc(new RequestParams(req.query, req.params.year, req.params.week))
-    .then((data) => {
-      res.status(200);
-      res.json(data);
-    })
-    .catch((error) => {
-      res.status(404);
-      res.json({ 'error': error })
-    });
-})
+// api.get('/calc/:year/:week', (req, res) => {
+//   calc(new RequestParams(req.query, req.params.year, req.params.week))
+//     .then((data) => {
+//       res.status(200);
+//       res.json(data);
+//     })
+//     .catch((error) => {
+//       res.status(404);
+//       res.json({ 'error': error })
+//     });
+// });
