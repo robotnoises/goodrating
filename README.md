@@ -14,7 +14,7 @@ I enjoy college football and I enjoy lists. This rating system is, more than any
 
 It's all about context. E.g. a team can have a 0.950 winning percentage, but that number doesn't account for the quality of teams they played in achieving that number. A high winning percentge could be an indicator of greatness, but it could also be an indicator of their opponents' collective weakness.
 
-> Ok, what are you going to so about it then?
+> Ok, what are you going to do about it then?
 
 Glad you asked!
 
