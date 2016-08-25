@@ -62,7 +62,7 @@ Each statistical category, is normalized to a 100-point scale. For example, if t
 
 After adding the weights, we simply add the four scores and rank accordingly, high-to-low.
 
-Note: currently, the cumulative "against the spread" score is applied directly to the final score, but I'm still evaluating the effect that has.
+Note: currently, the cumulative "against the spread" score is applied directly to the final score, but I'm still evaluating it.
 
 ## Last Warning
 
