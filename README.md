@@ -4,7 +4,9 @@
 
 ## Consumer Warning - this is supposed to be fun
 
-This rating system was created for my own enjoyment, i.e. I enjoy college football and I enjoy lists. Much of the "information" presented here is anecdotal, at best. That's intentional. Football is simulated warfare + shoulder pads. Any attempt to *seriously* quantify it should be met with tremendous skepticism.
+This rating system was created for my own enjoyment, i.e. I enjoy college football and I enjoy lists. Much of the "information" presented here is anecdotal, at best. That's intentional. Football is simulated warfare + shoulder pads. Any attempt to *seriously* quantify it should be met with tremendous skepticism. 
+
+That being said...
 
 ## Summary
 
