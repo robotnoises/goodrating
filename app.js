@@ -3,6 +3,9 @@
 let config = require('./config');
 let express = require('express');
 let cors = require('cors');
+let RequestParams = require('./models/RequestParams');
+let recipe = require('./recipes');
+let api = express.Router({ mergeParams: true });
 let app = express();
 
 console.log('Starting.');
@@ -19,16 +22,11 @@ app.use(cors());
  */
 
 // API parent route
-
-let RequestParams = require('./models/RequestParams');
-let recipe = require('./recipes');
-let api = express.Router({ mergeParams: true });
-
 app.use(config.API_ROOT, api);
 
-function calc(year, week, query) {
+function calc(params) {
   try {
-    return recipe(year, week, query);
+    return recipe(params);
   } catch(ex) {
     return Promise.reject(ex);
   }
