@@ -84,8 +84,7 @@ module.exports = (params) => {
       })
       .then((combinedData) => {
         let arrayer = new ObjectUtils(combinedData);
-        let calulator = new Calc(arrayer.toArray(Rating));
-        
+        let calulator = new Calc(arrayer.toArray(Rating), params.query);
         resolve(calulator.ratings(sortBy));
       })
       .catch((error) => {
