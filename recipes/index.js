@@ -7,6 +7,8 @@ module.exports = (params) => {
   switch(params.year) {
     case '2015':
       return recipe_2015(params);
+    case '2016':
+      return recipe_2016(params);
     default:
       return Promise.reject(`No data for the year ${year}`);
   }
