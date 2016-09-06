@@ -22,13 +22,13 @@ function getListOfSchools() {
 function getOffensiveStats() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_offense', '2016.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_offense', '2016-01.json'));
 }
 
 function getDefensiveStats() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_defense', '2016.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_defense', '2016-01.json'));
 }
 
 function getPlayerRanksFor(year) {
