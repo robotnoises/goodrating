@@ -30,7 +30,7 @@ class Calc {
 
   normalize(input, to, invert) {
     let normalized = parseFloat((input / to) * 100.0);
-    return (invert) ? 100.0 - (normalized - 100.0) : normalized;
+    return (invert) ? 100.0 - (100.0 - normalized) : normalized;
   }
 
   ratings(sortBy) {
@@ -48,17 +48,19 @@ class Calc {
     this.pScoreCeil = pScoreSorted[0][maps.COLUMN.RECRUITING_SCORE];
 
     function calculateRating(item) {
+      let adjustedATS = (item.ats <= 10.0) ? item.ats : 10.0;
+
       return (item.win_percentage_rating * this.weights.win_percentage_weight) + 
         (item.ypp_offense_rating * this.weights.ypp_offense_weight) + 
         (item.ypp_defense_rating * this.weights.ypp_defense_weight) + 
         (item.recruiting_score_rating * this.weights.recruiting_score_weight) + 
-        (item.ats)
+        (adjustedATS)
     }
 
     this.data.map((item) => {
       item.update(maps.COLUMN.WIN_PERCENTAGE_RATING, this.normalize(item.win_percentage, this.winPercentageCeil));
       item.update(maps.COLUMN.YPP_OFFENSE_RATING, this.normalize(item.ypp_offense, this.oStatsCeil));
-      item.update(maps.COLUMN.YPP_DEFENSE_RATING, this.normalize(item.ypp_defense, this.dStatsCeil, true));
+      item.update(maps.COLUMN.YPP_DEFENSE_RATING, this.normalize(this.dStatsCeil, item.ypp_defense, true));
       item.update(maps.COLUMN.RECRUITING_SCORE_RATING, this.normalize(item.recruiting_score, this.pScoreCeil))
       item.update(maps.COLUMN.TOTAL_RATING, calculateRating.call(this, item));
       return item;

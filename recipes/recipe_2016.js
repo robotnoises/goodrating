@@ -16,7 +16,7 @@ let fetchMe = new Fetch();
 function getListOfSchools() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_records', '2016.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_records', '2016-01.json'));
 }
 
 function getOffensiveStats() {
@@ -34,7 +34,7 @@ function getDefensiveStats() {
 function getPlayerRanksFor(year) {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'player_rankings', `${year}.json`));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'player_rankings', `${year}.json`));
 }
 
 module.exports = (params) => {
@@ -50,7 +50,7 @@ module.exports = (params) => {
 
     getListOfSchools()
       .then((data) => {
-        teams = parse.teamRecords(data.extractorData.data[0].group);
+        teams = parse.teamRecords(data.result.extractorData.data[0].group);
         return getOffensiveStats();
       })
       .then((data) => {
