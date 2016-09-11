@@ -23,6 +23,7 @@ const COLUMN = {
   'YPP_DEFENSE': 'ypp_defense',
   'RECRUITING_SCORE': 'recruiting_score',
   'ATS': 'ats',
+  'ADJUSTMENTS': 'adjustments',
   'WIN_PERCENTAGE_RATING': 'win_percentage_rating',
   'YPP_OFFENSE_RATING': 'ypp_offense_rating',
   'YPP_DEFENSE_RATING': 'ypp_defense_rating',

@@ -51,7 +51,7 @@ class Calc {
       let adjustedATS = (item.ats <= 10.0) ? item.ats : 10.0;
       let adjustedSOS = (item.sos <= 10.0) ? item.sos : 10.0;
       
-      item.adjustments = adjustedATS / 2 + adjustedSOS / 2;
+      item.adjustments = (adjustedATS / 2) + (adjustedSOS / 2);
 
       return (item.win_percentage_rating * this.weights.win_percentage_weight) + 
         (item.ypp_offense_rating * this.weights.ypp_offense_weight) + 
