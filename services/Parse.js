@@ -23,6 +23,24 @@ function teamRecords(data) {
   }, {});
 }
 
+function teamSOS(data) {
+  
+  return data.reduce((prev, curr) =>{
+    
+    let name = teamName.normalize(curr.name[0].text);
+    let key = Convert.sentenceToWord(name.toLowerCase());
+    let d = {
+      name: name,
+      slug: key,
+      sos: parseFloat(curr.sos_rating[0].text)
+    };
+    
+    prev[key] = d;
+    
+    return prev;
+  }, {});
+}
+
 function offensiveStats(data) {
   
   // Let's tame this data structure a bit...
@@ -98,6 +116,7 @@ function playerRanks(data) {
 
 module.exports = {
   teamRecords: teamRecords,
+  teamSOS: teamSOS,
   offensiveStats: offensiveStats,
   defensiveStats: defensiveStats,
   playerRanks: playerRanks
