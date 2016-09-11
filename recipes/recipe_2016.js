@@ -16,19 +16,19 @@ let fetchMe = new Fetch();
 function getListOfSchools() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_records', '2016-01.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_records', '2016-02.json'));
 }
 
 function getOffensiveStats() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_offense', '2016-01.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_offense', '2016-02.json'));
 }
 
 function getDefensiveStats() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_defense', '2016-01.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_defense', '2016-02.json'));
 }
 
 function getPlayerRanksFor(year) {
@@ -54,11 +54,11 @@ module.exports = (params) => {
         return getOffensiveStats();
       })
       .then((data) => {
-        oStats = parse.offensiveStats(data.extractorData.data);
+        oStats = parse.offensiveStats(data.result.extractorData.data);
         return getDefensiveStats();
       })
       .then((data) => {
-        dStats = parse.defensiveStats(data.extractorData.data[0].group);
+        dStats = parse.defensiveStats(data.result.extractorData.data[0].group);
         return getPlayerRanksFor('2013');
       })
       .then((data) => {
