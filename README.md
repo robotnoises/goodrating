@@ -53,16 +53,18 @@ Good observation! We don't track specific game outcomes. That's because head-to-
 
 Each statistical category, is normalized to a 100-point scale. For example, if the best winning percentage in all of football is `0.9`, then the team(s) with that winning percentage get a score of `100`. After each score is calculated, we apply some weights. Here's how the weights are currently distributed:
 
-1. Winning percentage -> 45%
-2. Offense rating -> 15%
+1. Winning percentage -> 35%
+2. Offense rating -> 20%
 3. Defense rating -> 20%
-4. Player rating -> 20%
+4. Player rating -> 25%
 
 *And before you ask, yes, those weights are complete arbitrary!*
 
 After adding the weights, we simply add the four scores and rank accordingly, high-to-low.
 
-Note: currently, the cumulative "against the spread" score is applied directly to the final score, but I'm still evaluating.
+## Adjustments
+
+This part is still very much a work-in-progress. Currently we are adjusting based on each team's cumulative "Against the Spread" performance plus their "Strength of Schedule" rating provided [here](https://www.teamrankings.com/ncf/trends/win_trends/?range=yearly_2016) and [here](https://www.teamrankings.com/college-football/ranking/schedule-strength-by-other), respectively. We cap each score at 5.0. There is currently no cap for negative scores, because I'm cruel.
 
 ## Last Warning
 
