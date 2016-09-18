@@ -33,6 +33,16 @@ class Calc {
     return (invert) ? 100.0 - (100.0 - normalized) : normalized;
   }
 
+  cap(input, max, min) {
+    if (input <= max && input >= min) {
+      return input;
+    } else if (input < min) {
+      return -5.0;
+    } else {
+      return 5.0;
+    }
+  }
+
   ratings(sortBy) {
     
     let wpSorted = this.sort(maps.COLUMN.WIN_PERCENTAGE);
@@ -48,8 +58,8 @@ class Calc {
     this.pScoreCeil = pScoreSorted[0][maps.COLUMN.RECRUITING_SCORE];
 
     function calculateRating(item) {
-      let adjustedATS = (item.ats <= 5.0) ? item.ats : 5.0;
-      let adjustedSOS = (item.sos <= 5.0) ? item.sos : 5.0;
+      let adjustedATS = this.cap(item.ats, 5.0, -10.0);  
+      let adjustedSOS = this.cap(item.sos, 5.0, -10.0); 
       
       item.adjustments = (adjustedATS) + (adjustedSOS);
 
