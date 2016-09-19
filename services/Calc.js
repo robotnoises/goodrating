@@ -37,9 +37,9 @@ class Calc {
     if (input <= max && input >= min) {
       return input;
     } else if (input < min) {
-      return -5.0;
+      return min;
     } else {
-      return 5.0;
+      return max;
     }
   }
 
