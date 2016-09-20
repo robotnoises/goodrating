@@ -19,6 +19,12 @@ function getListOfSchools() {
     .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'team_records', '2015.json'));
 }
 
+function getSOS() {
+  return fetchMe
+    .by(maps.SOURCE.FILEPATH)
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_sos', '2016-03.json'));
+}
+
 function getOffensiveStats() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
@@ -44,6 +50,7 @@ module.exports = (params) => {
   return new Promise((resolve, reject) => {
       
     let teams = {};
+    let sos = {};
     let oStats = {};
     let dStats = {};
     let pRatings = {};
@@ -51,6 +58,11 @@ module.exports = (params) => {
     getListOfSchools()
       .then((data) => {
         teams = parse.teamRecords(data.extractorData.data[0].group);
+        return getSOS();
+        
+      })
+      .then((data) => {
+        sos = parse.teamSOS(data.result.extractorData.data[0].group);
         return getOffensiveStats();
       })
       .then((data) => {
@@ -80,7 +92,7 @@ module.exports = (params) => {
         let combiner = new ObjectUtils();
 
         pRatings = adder.add(pRatings, 'recruiting_score');
-        return combiner.combine(teams, oStats, dStats, pRatings);
+        return combiner.combine(teams, sos, oStats, dStats, pRatings);
       })
       .then((combinedData) => {
         let arrayer = new ObjectUtils(combinedData);
