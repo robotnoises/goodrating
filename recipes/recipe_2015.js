@@ -22,7 +22,7 @@ function getListOfSchools() {
 function getSOS() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_sos', '2016-03.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'archived', 'json', 'team_sos', '2015.json'));
 }
 
 function getOffensiveStats() {
