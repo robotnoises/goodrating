@@ -1,0 +1,2966 @@
+{
+  "url": "https://www.teamrankings.com/ncf/trends/win_trends/?range=yearly_2016",
+  "result": {
+    "extractorData": {
+      "url": "https://www.teamrankings.com/ncf/trends/win_trends/?range=yearly_2016",
+      "resourceId": "0044833a943650c1b4f90a9342516753",
+      "data": [
+        {
+          "group": [
+            {
+              "name": [
+                {
+                  "text": "Michigan",
+                  "href": "https://www.teamrankings.com/college-football/team/michigan-wolverines"
+                }
+              ],
+              "record": [
+                {
+                  "text": "6-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+14.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Texas A&M",
+                  "href": "https://www.teamrankings.com/college-football/team/texas-am-aggies"
+                }
+              ],
+              "record": [
+                {
+                  "text": "6-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+6.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Baylor",
+                  "href": "https://www.teamrankings.com/college-football/team/baylor-bears"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-5.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Ohio State",
+                  "href": "https://www.teamrankings.com/college-football/team/ohio-state-buckeyes"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+17.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Boise State",
+                  "href": "https://www.teamrankings.com/college-football/team/boise-state-broncos"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-0.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Clemson",
+                  "href": "https://www.teamrankings.com/college-football/team/clemson-tigers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "6-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+3.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "W Michigan",
+                  "href": "https://www.teamrankings.com/college-football/team/western-michigan-broncos"
+                }
+              ],
+              "record": [
+                {
+                  "text": "6-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+13.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "W Virginia",
+                  "href": "https://www.teamrankings.com/college-football/team/west-virginia-mountaineers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Alabama",
+                  "href": "https://www.teamrankings.com/college-football/team/alabama-crimson-tide"
+                }
+              ],
+              "record": [
+                {
+                  "text": "6-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+4.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Washington",
+                  "href": "https://www.teamrankings.com/college-football/team/washington-huskies"
+                }
+              ],
+              "record": [
+                {
+                  "text": "6-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+13.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Nebraska",
+                  "href": "https://www.teamrankings.com/college-football/team/nebraska-cornhuskers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-0-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "100.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+2.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Wake Forest",
+                  "href": "https://www.teamrankings.com/college-football/team/wake-forest-demon-deacons"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "83.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+3.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Arizona St",
+                  "href": "https://www.teamrankings.com/college-football/team/arizona-state-sun-devils"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "83.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Houston",
+                  "href": "https://www.teamrankings.com/college-football/team/houston-cougars"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "83.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+7.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Tennessee",
+                  "href": "https://www.teamrankings.com/college-football/team/tennessee-volunteers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "83.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-2.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Utah",
+                  "href": "https://www.teamrankings.com/college-football/team/utah-utes"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "83.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-0.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "S Florida",
+                  "href": "https://www.teamrankings.com/college-football/team/south-florida-bulls"
+                }
+              ],
+              "record": [
+                {
+                  "text": "5-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "83.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+6.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Memphis",
+                  "href": "https://www.teamrankings.com/college-football/team/memphis-tigers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+10.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Air Force",
+                  "href": "https://www.teamrankings.com/college-football/team/air-force-falcons"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-6.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Maryland",
+                  "href": "https://www.teamrankings.com/college-football/team/maryland-terrapins"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Miami (FL)",
+                  "href": "https://www.teamrankings.com/college-football/team/miami-hurricanes"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+10.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Middle Tenn",
+                  "href": "https://www.teamrankings.com/college-football/team/middle-tennessee-blue-raiders"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+0.3"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "NC State",
+                  "href": "https://www.teamrankings.com/college-football/team/north-carolina-state-wolfpack"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+3.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Wisconsin",
+                  "href": "https://www.teamrankings.com/college-football/team/wisconsin-badgers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+7.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Troy",
+                  "href": "https://www.teamrankings.com/college-football/team/troy-trojans"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+15.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "San Diego St",
+                  "href": "https://www.teamrankings.com/college-football/team/san-diego-state-aztecs"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-6.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Tulsa",
+                  "href": "https://www.teamrankings.com/college-football/team/tulsa-golden-hurricane"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-0.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Florida",
+                  "href": "https://www.teamrankings.com/college-football/team/florida-gators"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Louisville",
+                  "href": "https://www.teamrankings.com/college-football/team/louisville-cardinals"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+13.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Navy",
+                  "href": "https://www.teamrankings.com/college-football/team/navy-midshipmen"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+6.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "VA Tech",
+                  "href": "https://www.teamrankings.com/college-football/team/virginia-tech-hokies"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+14.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Toledo",
+                  "href": "https://www.teamrankings.com/college-football/team/toledo-rockets"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-1-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "80.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+9.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Auburn",
+                  "href": "https://www.teamrankings.com/college-football/team/auburn-tigers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+8.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Central Mich",
+                  "href": "https://www.teamrankings.com/college-football/team/central-michigan-chippewas"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-4.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Pittsburgh",
+                  "href": "https://www.teamrankings.com/college-football/team/pittsburgh-panthers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Penn State",
+                  "href": "https://www.teamrankings.com/college-football/team/penn-state-nittany-lions"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-0.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Colorado",
+                  "href": "https://www.teamrankings.com/college-football/team/colorado-buffaloes"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+12.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Wyoming",
+                  "href": "https://www.teamrankings.com/college-football/team/wyoming-cowboys"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+7.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "S Mississippi",
+                  "href": "https://www.teamrankings.com/college-football/team/southern-mississippi-golden-eagles"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-6.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "N Carolina",
+                  "href": "https://www.teamrankings.com/college-football/team/north-carolina-tar-heels"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Arkansas",
+                  "href": "https://www.teamrankings.com/college-football/team/arkansas-razorbacks"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Ohio",
+                  "href": "https://www.teamrankings.com/college-football/team/ohio-bobcats"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Georgia",
+                  "href": "https://www.teamrankings.com/college-football/team/georgia-bulldogs"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-11.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Oklahoma St",
+                  "href": "https://www.teamrankings.com/college-football/team/oklahoma-state-cowboys"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Florida St",
+                  "href": "https://www.teamrankings.com/college-football/team/florida-state-seminoles"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-5.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "TX Christian",
+                  "href": "https://www.teamrankings.com/college-football/team/texas-christian-horned-frogs"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-9.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "E Michigan",
+                  "href": "https://www.teamrankings.com/college-football/team/eastern-michigan-eagles"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+4.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Iowa",
+                  "href": "https://www.teamrankings.com/college-football/team/iowa-hawkeyes"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-2.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Akron",
+                  "href": "https://www.teamrankings.com/college-football/team/akron-zips"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+3.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Old Dominion",
+                  "href": "https://www.teamrankings.com/college-football/team/old-dominion-monarchs"
+                }
+              ],
+              "record": [
+                {
+                  "text": "4-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "66.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+7.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Oklahoma",
+                  "href": "https://www.teamrankings.com/college-football/team/oklahoma-sooners"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-10.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Indiana",
+                  "href": "https://www.teamrankings.com/college-football/team/indiana-hoosiers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "GA Southern",
+                  "href": "https://www.teamrankings.com/college-football/team/georgia-southern-eagles"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-8.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Wash State",
+                  "href": "https://www.teamrankings.com/college-football/team/washington-state-cougars"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+11.3"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Kansas St",
+                  "href": "https://www.teamrankings.com/college-football/team/kansas-state-wildcats"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+2.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Minnesota",
+                  "href": "https://www.teamrankings.com/college-football/team/minnesota-golden-gophers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "LSU",
+                  "href": "https://www.teamrankings.com/college-football/team/louisiana-state-tigers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "S Alabama",
+                  "href": "https://www.teamrankings.com/college-football/team/south-alabama-jaguars"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+8.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Tulane",
+                  "href": "https://www.teamrankings.com/college-football/team/tulane-green-wave"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+5.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Army",
+                  "href": "https://www.teamrankings.com/college-football/team/army-black-knights"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+13.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Texas Tech",
+                  "href": "https://www.teamrankings.com/college-football/team/texas-tech-red-raiders"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+3.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Stanford",
+                  "href": "https://www.teamrankings.com/college-football/team/stanford-cardinal"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-10.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Purdue",
+                  "href": "https://www.teamrankings.com/college-football/team/purdue-boilermakers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-5.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Mississippi",
+                  "href": "https://www.teamrankings.com/college-football/team/mississippi-rebels"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "App State",
+                  "href": "https://www.teamrankings.com/college-football/team/appalachian-state-mountaineers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Central FL",
+                  "href": "https://www.teamrankings.com/college-football/team/central-florida-knights"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-2-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "60.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+13.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "USC",
+                  "href": "https://www.teamrankings.com/college-football/team/southern-california-trojans"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "California",
+                  "href": "https://www.teamrankings.com/college-football/team/california-golden-bears"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-0.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Boston Col",
+                  "href": "https://www.teamrankings.com/college-football/team/boston-college-eagles"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-9.3"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Cincinnati",
+                  "href": "https://www.teamrankings.com/college-football/team/cincinnati-bearcats"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-9.3"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "UCLA",
+                  "href": "https://www.teamrankings.com/college-football/team/ucla-bruins"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-2.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Nevada",
+                  "href": "https://www.teamrankings.com/college-football/team/nevada-wolf-pack"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-7.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Hawaii",
+                  "href": "https://www.teamrankings.com/college-football/team/hawaii-rainbow-warriors"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+5.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Idaho",
+                  "href": "https://www.teamrankings.com/college-football/team/idaho-vandals"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-4.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "GA Tech",
+                  "href": "https://www.teamrankings.com/college-football/team/georgia-tech-yellow-jackets"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+2.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "BYU",
+                  "href": "https://www.teamrankings.com/college-football/team/brigham-young-cougars"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+4.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Duke",
+                  "href": "https://www.teamrankings.com/college-football/team/duke-blue-devils"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "W Kentucky",
+                  "href": "https://www.teamrankings.com/college-football/team/western-kentucky-hilltoppers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "LA Tech",
+                  "href": "https://www.teamrankings.com/college-football/team/louisiana-tech-bulldogs"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+2.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Ball State",
+                  "href": "https://www.teamrankings.com/college-football/team/ball-state-cardinals"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+6.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Colorado St",
+                  "href": "https://www.teamrankings.com/college-football/team/colorado-state-rams"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-4.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Kentucky",
+                  "href": "https://www.teamrankings.com/college-football/team/kentucky-wildcats"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Temple",
+                  "href": "https://www.teamrankings.com/college-football/team/temple-owls"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+0.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Connecticut",
+                  "href": "https://www.teamrankings.com/college-football/team/connecticut-huskies"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "North Texas",
+                  "href": "https://www.teamrankings.com/college-football/team/north-texas-mean-green"
+                }
+              ],
+              "record": [
+                {
+                  "text": "3-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "50.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+8.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "New Mexico",
+                  "href": "https://www.teamrankings.com/college-football/team/new-mexico-lobos"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.3"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Virginia",
+                  "href": "https://www.teamrankings.com/college-football/team/virginia-cavaliers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+3.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Texas",
+                  "href": "https://www.teamrankings.com/college-football/team/texas-longhorns"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-2.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Oregon St",
+                  "href": "https://www.teamrankings.com/college-football/team/oregon-state-beavers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-2.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "LA Lafayette",
+                  "href": "https://www.teamrankings.com/college-football/team/ul-lafayette-ragin-cajuns"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-4.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Northwestern",
+                  "href": "https://www.teamrankings.com/college-football/team/northwestern-wildcats"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Miss State",
+                  "href": "https://www.teamrankings.com/college-football/team/mississippi-state-bulldogs"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-8.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Michigan St",
+                  "href": "https://www.teamrankings.com/college-football/team/michigan-state-spartans"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-12.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "N Mex State",
+                  "href": "https://www.teamrankings.com/college-football/team/new-mexico-state-aggies"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Texas State",
+                  "href": "https://www.teamrankings.com/college-football/team/texas-state-bobcats"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-3.3"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Missouri",
+                  "href": "https://www.teamrankings.com/college-football/team/missouri-tigers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+5.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "TX-San Ant",
+                  "href": "https://www.teamrankings.com/college-football/team/texas-san-antonio-roadrunners"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-3-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "40.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+7.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Oregon",
+                  "href": "https://www.teamrankings.com/college-football/team/oregon-ducks"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-17.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Vanderbilt",
+                  "href": "https://www.teamrankings.com/college-football/team/vanderbilt-commodores"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-0.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Syracuse",
+                  "href": "https://www.teamrankings.com/college-football/team/syracuse-orange"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-5.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "S Methodist",
+                  "href": "https://www.teamrankings.com/college-football/team/southern-methodist-mustangs"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Arizona",
+                  "href": "https://www.teamrankings.com/college-football/team/arizona-wildcats"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-7.3"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Kent State",
+                  "href": "https://www.teamrankings.com/college-football/team/kent-state-golden-flashes"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+2.4"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Notre Dame",
+                  "href": "https://www.teamrankings.com/college-football/team/notre-dame-fighting-irish"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-7.3"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Rutgers",
+                  "href": "https://www.teamrankings.com/college-football/team/rutgers-scarlet-knights"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-12.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "S Carolina",
+                  "href": "https://www.teamrankings.com/college-football/team/south-carolina-gamecocks"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+0.7"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "E Carolina",
+                  "href": "https://www.teamrankings.com/college-football/team/east-carolina-pirates"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-2.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Utah State",
+                  "href": "https://www.teamrankings.com/college-football/team/utah-state-aggies"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-0.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "UNLV",
+                  "href": "https://www.teamrankings.com/college-football/team/unlv-rebels"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "0.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Florida Intl",
+                  "href": "https://www.teamrankings.com/college-football/team/florida-international-golden-panthers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-6.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Charlotte",
+                  "href": "https://www.teamrankings.com/college-football/team/charlotte-49ers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "2-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "33.3%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-5.6"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "LA Monroe",
+                  "href": "https://www.teamrankings.com/college-football/team/ul-monroe-warhawks"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "20.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Kansas",
+                  "href": "https://www.teamrankings.com/college-football/team/kansas-jayhawks"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "20.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+1.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Illinois",
+                  "href": "https://www.teamrankings.com/college-football/team/illinois-fighting-illini"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "20.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-5.9"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Marshall",
+                  "href": "https://www.teamrankings.com/college-football/team/marshall-thundering-herd"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "20.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-11.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Buffalo",
+                  "href": "https://www.teamrankings.com/college-football/team/buffalo-bulls"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "20.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-11.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Arkansas St",
+                  "href": "https://www.teamrankings.com/college-football/team/arkansas-state-red-wolves"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "20.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-12.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Georgia State",
+                  "href": "https://www.teamrankings.com/college-football/team/georgia-state-panthers"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-4-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "20.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+3.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Bowling Grn",
+                  "href": "https://www.teamrankings.com/college-football/team/bowling-green-falcons"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "16.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-21.1"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Fresno St",
+                  "href": "https://www.teamrankings.com/college-football/team/fresno-state-bulldogs"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "16.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-4.0"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "TX El Paso",
+                  "href": "https://www.teamrankings.com/college-football/team/texas-el-paso-miners"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "16.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-12.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Iowa State",
+                  "href": "https://www.teamrankings.com/college-football/team/iowa-state-cyclones"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "16.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+2.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "N Illinois",
+                  "href": "https://www.teamrankings.com/college-football/team/northern-illinois-huskies"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "16.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-5.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "San Jose St",
+                  "href": "https://www.teamrankings.com/college-football/team/san-jose-state-spartans"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "16.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-15.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Fla Atlantic",
+                  "href": "https://www.teamrankings.com/college-football/team/florida-atlantic-owls"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "16.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-10.2"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "U Mass",
+                  "href": "https://www.teamrankings.com/college-football/team/massachusetts-minutemen"
+                }
+              ],
+              "record": [
+                {
+                  "text": "1-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "16.7%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "+3.5"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Miami (OH)",
+                  "href": "https://www.teamrankings.com/college-football/team/miami-ohio-redhawks"
+                }
+              ],
+              "record": [
+                {
+                  "text": "0-6-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "0.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-1.8"
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "text": "Rice",
+                  "href": "https://www.teamrankings.com/college-football/team/rice-owls"
+                }
+              ],
+              "record": [
+                {
+                  "text": "0-5-0"
+                }
+              ],
+              "win_percentage": [
+                {
+                  "text": "0.0%"
+                }
+              ],
+              "ats": [
+                {
+                  "text": "-4.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "pageData": {
+      "resourceId": "0044833a943650c1b4f90a9342516753",
+      "statusCode": 200,
+      "timestamp": 1476105677360
+    },
+    "timestamp": 1476105678474,
+    "sequenceNumber": 0
+  }
+}
