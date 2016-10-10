@@ -58,8 +58,8 @@ class Calc {
     this.pScoreCeil = pScoreSorted[0][maps.COLUMN.RECRUITING_SCORE];
 
     function calculateRating(item) {
-      let adjustedATS = this.cap(item.ats, 5.0, -10.0);  
-      let adjustedSOS = this.cap(item.sos, 5.0, -10.0); 
+      let adjustedATS = this.cap(item.ats, 5.0, -5.0);  
+      let adjustedSOS = this.cap(item.sos, 10.0, -10.0); 
       
       item.adjustments = (adjustedATS) + (adjustedSOS);
 
