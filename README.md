@@ -1,3 +1,5 @@
+> Note: The web scraper I was using to gather data from various sites is broken, so I stopped updating October 24, 2016. I'll look to resume this rating after I figure-out a more reliable way to get statistics.
+
 # goodrating
 
 > An attempt to rate college football teams (good).
