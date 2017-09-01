@@ -6,10 +6,10 @@ let recipe_2017 = require('./recipe_2017');
 
 module.exports = (params) => {
   switch(params.year) {
-    case '2015':
-      return recipe_2015(params);
-    case '2016':
-      return recipe_2016(params);
+    // case '2015':
+    //   return recipe_2015(params);
+    // case '2016':
+    //   return recipe_2016(params);
     case '2017':
       return recipe_2017(params);
     default:
