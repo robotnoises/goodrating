@@ -12,6 +12,7 @@ class Rating {
     
     this.ats = data.ats || 0.0;
     this.sos = data.sos || 0.0;
+    this.margin_of_victory = data.margin_of_victory || 0.0;
     this.win_percentage_rating = data.win_percentage_rating || 0.0;
     this.ypp_offense_rating = data.offense_rating || 0.0;
     this.ypp_defense_rating = data.defense_rating || 0.0;

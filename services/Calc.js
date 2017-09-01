@@ -4,7 +4,6 @@ let maps = require('./../maps');
 let Weights = require('./../models/Weights');
 
 class Calc {
-
   constructor(array, weights) {
     this.data = array;
     this.weights = new Weights(weights);
@@ -44,7 +43,6 @@ class Calc {
   }
 
   ratings(sortBy) {
-    
     let wpSorted = this.sort(maps.COLUMN.WIN_PERCENTAGE);
     this.winPercentageCeil = wpSorted[0][maps.COLUMN.WIN_PERCENTAGE];
     
@@ -59,7 +57,8 @@ class Calc {
 
     function calculateRating(item) {
       let adjustedATS = this.cap(item.ats, 5.0, -5.0);  
-      let adjustedSOS = this.cap(item.sos, 10.0, -10.0); 
+      let adjustedSOS = this.cap(item.sos, 10.0, -10.0);
+      let adjustedMOV = this.cap(item.margin_of_victory, 10.0, -10.0); // todo: not sure how this is going to factor, yet
       
       item.adjustments = (adjustedATS) + (adjustedSOS);
 
