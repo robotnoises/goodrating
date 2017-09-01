@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Oklahoma St",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "35.0",
+    "ats": "+15.5"
+  },
+  {
+    "name": "Wake Forest",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "44.0",
+    "ats": "+2.0"
+  },
+  {
+    "name": "Idaho",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "22.0",
+    "ats": "0.0"
+  },
+  {
+    "name": "Stanford",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "55.0",
+    "ats": "+25.5"
+  },
+  {
+    "name": "Central Mich",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "3.0",
+    "ats": "-31.5"
+  },
+  {
+    "name": "Toledo",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "34.0",
+    "ats": "-11.0"
+  },
+  {
+    "name": "BYU",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "14.0",
+    "ats": "-21.0"
+  },
+  {
+    "name": "Arkansas",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "42.0",
+    "ats": "-5.0"
+  },
+  {
+    "name": "Hawaii",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "3.0",
+    "ats": "+6.0"
+  },
+  {
+    "name": "Utah",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "21.0",
+    "ats": "+0.5"
+  },
+  {
+    "name": "Cincinnati",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "12.0",
+    "ats": "-31.0"
+  },
+  {
+    "name": "Colorado St",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "31.0",
+    "ats": "+28.0"
+  },
+  {
+    "name": "Memphis",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "8.0",
+    "ats": "-19.5"
+  },
+  {
+    "name": "Arizona St",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "6.0",
+    "ats": "-20.5"
+  },
+  {
+    "name": "Central FL",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "44.0",
+    "ats": "+26.5"
+  },
+  {
+    "name": "S Florida",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "20.0",
+    "ats": "-0.5"
+  },
+  {
+    "name": "Connecticut",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "7.0",
+    "ats": "-15.0"
+  },
+  {
+    "name": "Ohio State",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "28.0",
+    "ats": "+8.0"
+  },
+  {
+    "name": "Minnesota",
+    "record": "1-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "10.0",
+    "ats": "-12.5"
+  },
+  {
+    "name": "Florida Intl",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-44.0",
+    "ats": "-26.5"
+  },
+  {
+    "name": "Buffalo",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-10.0",
+    "ats": "+12.5"
+  },
+  {
+    "name": "Rice",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-55.0",
+    "ats": "-25.5"
+  },
+  {
+    "name": "San Jose St",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-20.0",
+    "ats": "+0.5"
+  },
+  {
+    "name": "Indiana",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-28.0",
+    "ats": "-8.0"
+  },
+  {
+    "name": "LA Monroe",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-8.0",
+    "ats": "+19.5"
+  },
+  {
+    "name": "N Mex State",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-6.0",
+    "ats": "+20.5"
+  },
+  {
+    "name": "Tulsa",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-35.0",
+    "ats": "-15.5"
+  },
+  {
+    "name": "Georgia State",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-7.0",
+    "ats": "-23.0"
+  },
+  {
+    "name": "Oregon St",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-31.0",
+    "ats": "-28.0"
+  },
+  {
+    "name": "U Mass",
+    "record": "0-1-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-3.0",
+    "ats": "-6.0"
+  }
+]
