@@ -1,67 +1,75 @@
 [
   {
+    "name": "UCF",
+    "score": " 553.51 "
+  },
+  {
+    "name": "Houston",
+    "score": " 541.77 "
+  },
+  {
+    "name": "USF",
+    "score": " 535.46 "
+  },
+  {
+    "name": "Cincinnati",
+    "score": " 500.48 "
+  },
+  {
+    "name": "SMU",
+    "score": " 484.29 "
+  },
+  {
+    "name": "East Carolina",
+    "score": " 471.87 "
+  },
+  {
+    "name": "Memphis",
+    "score": " 469.28 "
+  },
+  {
+    "name": "Temple",
+    "score": " 458.25 "
+  },
+  {
+    "name": "Connecticut",
+    "score": " 375.14 "
+  },
+  {
+    "name": "Tulsa",
+    "score": " 373.03 "
+  },
+  {
+    "name": "Tulane",
+    "score": " 366.60 "
+  },
+  {
+    "name": "Navy",
+    "score": " 319.97 "
+  },
+  {
     "name": "Alabama",
     "score": " 995.81 "
-  },
-  {
-    "name": "Ohio State",
-    "score": " 955.51 "
-  },
-  {
-    "name": "USC",
-    "score": " 934.00 "
   },
   {
     "name": "Georgia",
     "score": " 931.41 "
   },
   {
-    "name": "Florida State",
-    "score": " 924.97 "
-  },
-  {
     "name": "LSU",
     "score": " 907.10 "
-  },
-  {
-    "name": "Michigan",
-    "score": " 874.28 "
   },
   {
     "name": "Auburn",
     "score": " 866.17 "
   },
   {
-    "name": "Clemson",
-    "score": " 853.65 "
-  },
-  {
-    "name": "Notre Dame",
-    "score": " 837.71 "
-  },
-  {
-    "name": "UCLA",
-    "score": " 830.58 "
-  },
-  {
     "name": "Tennessee",
     "score": " 817.35 "
   },
   {
-    "name": "Texas",
-    "score": " 811.03 "
-  },
-  {
-    "name": "Stanford",
-    "score": " 810.31 "
-  },
-  {
     "name": "Texas A&M",
     "score": " 807.27 "
-  },
-  {
-    "name": "Oklahoma",
-    "score": " 801.39 "
   },
   {
     "name": "Ole Miss",
@@ -72,40 +80,304 @@
     "score": " 795.14 "
   },
   {
-    "name": "Penn State",
-    "score": " 778.15 "
-  },
-  {
-    "name": "Miami",
-    "score": " 749.08 "
-  },
-  {
-    "name": "Oregon",
-    "score": " 718.17 "
-  },
-  {
     "name": "Arkansas",
     "score": " 716.93 "
-  },
-  {
-    "name": "Arizona State",
-    "score": " 711.73 "
   },
   {
     "name": "Mississippi State",
     "score": " 709.06 "
   },
   {
+    "name": "South Carolina",
+    "score": " 696.88 "
+  },
+  {
+    "name": "Kentucky",
+    "score": " 671.26 "
+  },
+  {
+    "name": "Missouri",
+    "score": " 622.67 "
+  },
+  {
+    "name": "Vanderbilt",
+    "score": " 607.68 "
+  },
+  {
+    "name": "Arkansas State",
+    "score": " 438.41 "
+  },
+  {
+    "name": "South Alabama",
+    "score": " 383.08 "
+  },
+  {
+    "name": "Georgia Southern",
+    "score": " 366.55 "
+  },
+  {
+    "name": "Georgia State",
+    "score": " 364.69 "
+  },
+  {
+    "name": "Troy",
+    "score": " 353.07 "
+  },
+  {
+    "name": "Appalachian State",
+    "score": " 335.87 "
+  },
+  {
+    "name": "Louisiana-Lafayette",
+    "score": " 329.24 "
+  },
+  {
+    "name": "Louisiana-Monroe",
+    "score": " 303.96 "
+  },
+  {
+    "name": "Texas State",
+    "score": " 274.67 "
+  },
+  {
+    "name": "New Mexico State",
+    "score": " 233.47 "
+  },
+  {
+    "name": "Idaho",
+    "score": " 185.34 "
+  },
+  {
+    "name": "Coastal Carolina",
+    "score": " 119.43 "
+  },
+  {
+    "name": "USC",
+    "score": " 934.00 "
+  },
+  {
+    "name": "UCLA",
+    "score": " 830.58 "
+  },
+  {
+    "name": "Stanford",
+    "score": " 810.31 "
+  },
+  {
+    "name": "Oregon",
+    "score": " 718.17 "
+  },
+  {
+    "name": "Arizona State",
+    "score": " 711.73 "
+  },
+  {
     "name": "Washington",
     "score": " 706.52 "
   },
   {
-    "name": "North Carolina",
-    "score": " 697.54 "
+    "name": "Utah",
+    "score": " 628.81 "
   },
   {
-    "name": "South Carolina",
-    "score": " 696.88 "
+    "name": "Arizona",
+    "score": " 609.15 "
+  },
+  {
+    "name": "California",
+    "score": " 603.06 "
+  },
+  {
+    "name": "Colorado",
+    "score": " 568.59 "
+  },
+  {
+    "name": "Oregon State",
+    "score": " 562.65 "
+  },
+  {
+    "name": "Washington State",
+    "score": " 549.75 "
+  },
+  {
+    "name": "Boise State",
+    "score": " 506.84 "
+  },
+  {
+    "name": "Colorado State",
+    "score": " 441.98 "
+  },
+  {
+    "name": "San Diego State",
+    "score": " 419.43 "
+  },
+  {
+    "name": "San Jose State",
+    "score": " 378.56 "
+  },
+  {
+    "name": "Fresno State",
+    "score": " 374.63 "
+  },
+  {
+    "name": "New Mexico",
+    "score": " 344.64 "
+  },
+  {
+    "name": "Nevada",
+    "score": " 341.31 "
+  },
+  {
+    "name": "Hawaii",
+    "score": " 338.24 "
+  },
+  {
+    "name": "Utah State",
+    "score": " 330.20 "
+  },
+  {
+    "name": "UNLV",
+    "score": " 323.78 "
+  },
+  {
+    "name": "Wyoming",
+    "score": " 277.07 "
+  },
+  {
+    "name": "Air Force",
+    "score": " 21.10 "
+  },
+  {
+    "name": "Western Michigan",
+    "score": " 414.35 "
+  },
+  {
+    "name": "Miami (OH)",
+    "score": " 413.24 "
+  },
+  {
+    "name": "Central Michigan",
+    "score": " 387.20 "
+  },
+  {
+    "name": "Northern Illinois",
+    "score": " 373.99 "
+  },
+  {
+    "name": "Toledo",
+    "score": " 366.47 "
+  },
+  {
+    "name": "Bowling Green",
+    "score": " 361.82 "
+  },
+  {
+    "name": "Ohio",
+    "score": " 326.14 "
+  },
+  {
+    "name": "Akron",
+    "score": " 326.07 "
+  },
+  {
+    "name": "Ball State",
+    "score": " 318.17 "
+  },
+  {
+    "name": "Eastern Michigan",
+    "score": " 291.33 "
+  },
+  {
+    "name": "Kent State",
+    "score": " 288.56 "
+  },
+  {
+    "name": "Buffalo",
+    "score": " 284.04 "
+  },
+  {
+    "name": "Notre Dame",
+    "score": " 837.71 "
+  },
+  {
+    "name": "Brigham Young",
+    "score": " 545.63 "
+  },
+  {
+    "name": "Massachusetts",
+    "score": " 367.59 "
+  },
+  {
+    "name": "Army",
+    "score": " 88.72 "
+  },
+  {
+    "name": "Florida Atlantic",
+    "score": " 470.88 "
+  },
+  {
+    "name": "Marshall",
+    "score": " 441.57 "
+  },
+  {
+    "name": "Southern Miss",
+    "score": " 392.46 "
+  },
+  {
+    "name": "Louisiana Tech",
+    "score": " 390.88 "
+  },
+  {
+    "name": "Rice",
+    "score": " 345.79 "
+  },
+  {
+    "name": "Middle Tennessee State",
+    "score": " 339.29 "
+  },
+  {
+    "name": "FIU",
+    "score": " 334.18 "
+  },
+  {
+    "name": "Western Kentucky",
+    "score": " 332.17 "
+  },
+  {
+    "name": "Old Dominion",
+    "score": " 331.20 "
+  },
+  {
+    "name": "North Texas",
+    "score": " 303.13 "
+  },
+  {
+    "name": "Texas-San Antonio",
+    "score": " 291.62 "
+  },
+  {
+    "name": "Charlotte",
+    "score": " 279.46 "
+  },
+  {
+    "name": "UTEP",
+    "score": " 256.89 "
+  },
+  {
+    "name": "UAB",
+    "score": " 167.12 "
+  },
+  {
+    "name": "Ohio State",
+    "score": " 955.51 "
+  },
+  {
+    "name": "Michigan",
+    "score": " 874.28 "
+  },
+  {
+    "name": "Penn State",
+    "score": " 778.15 "
   },
   {
     "name": "Maryland",
@@ -120,12 +392,92 @@
     "score": " 680.94 "
   },
   {
-    "name": "Kentucky",
-    "score": " 671.26 "
+    "name": "Wisconsin",
+    "score": " 633.82 "
+  },
+  {
+    "name": "Northwestern",
+    "score": " 627.54 "
+  },
+  {
+    "name": "Iowa",
+    "score": " 593.93 "
+  },
+  {
+    "name": "Rutgers",
+    "score": " 574.81 "
+  },
+  {
+    "name": "Indiana",
+    "score": " 549.34 "
+  },
+  {
+    "name": "Minnesota",
+    "score": " 541.93 "
+  },
+  {
+    "name": "Illinois",
+    "score": " 533.97 "
+  },
+  {
+    "name": "Purdue",
+    "score": " 504.78 "
+  },
+  {
+    "name": "Texas",
+    "score": " 811.03 "
+  },
+  {
+    "name": "Oklahoma",
+    "score": " 801.39 "
   },
   {
     "name": "TCU",
     "score": " 671.11 "
+  },
+  {
+    "name": "Baylor",
+    "score": " 647.29 "
+  },
+  {
+    "name": "Oklahoma State",
+    "score": " 636.20 "
+  },
+  {
+    "name": "West Virginia",
+    "score": " 614.02 "
+  },
+  {
+    "name": "Texas Tech",
+    "score": " 580.76 "
+  },
+  {
+    "name": "Iowa State",
+    "score": " 561.58 "
+  },
+  {
+    "name": "Kansas State",
+    "score": " 520.62 "
+  },
+  {
+    "name": "Kansas",
+    "score": " 512.24 "
+  },
+  {
+    "name": "Florida State",
+    "score": " 924.97 "
+  },
+  {
+    "name": "Clemson",
+    "score": " 853.65 "
+  },
+  {
+    "name": "Miami",
+    "score": " 749.08 "
+  },
+  {
+    "name": "North Carolina",
+    "score": " 697.54 "
   },
   {
     "name": "Virginia Tech",
@@ -136,67 +488,35 @@
     "score": " 660.36 "
   },
   {
-    "name": "Baylor",
-    "score": " 647.29 "
-  },
-  {
     "name": "Louisville",
     "score": " 641.85 "
-  },
-  {
-    "name": "Oklahoma State",
-    "score": " 636.20 "
-  },
-  {
-    "name": "Wisconsin",
-    "score": " 633.82 "
-  },
-  {
-    "name": "Utah",
-    "score": " 628.81 "
   },
   {
     "name": "Duke",
     "score": " 627.62 "
   },
   {
-    "name": "Northwestern",
-    "score": " 627.54 "
-  },
-  {
-    "name": "Missouri",
-    "score": " 622.67 "
-  },
-  {
-    "name": "West Virginia",
-    "score": " 614.02 "
-  },
-  {
     "name": "N.C. State",
     "score": " 609.76 "
-  },
-  {
-    "name": "Arizona",
-    "score": " 609.15 "
-  },
-  {
-    "name": "Vanderbilt",
-    "score": " 607.68 "
   },
   {
     "name": "Virginia",
     "score": " 604.09 "
   },
   {
-    "name": "California",
-    "score": " 603.06 "
+    "name": "Georgia Tech",
+    "score": " 574.35 "
   },
   {
-    "name": "Iowa",
-    "score": " 593.93 "
+    "name": "Boston College",
+    "score": " 533.47 "
   },
   {
-    "name": "Texas Tech",
-    "score": " 580.76 "
+    "name": "Syracuse",
+    "score": " 533.20 "
+  },
+  {
+    "name": "Wake Forest",
+    "score": " 527.21 "
   }
 ]
