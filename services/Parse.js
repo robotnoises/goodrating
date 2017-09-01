@@ -7,109 +7,77 @@ let teamName = require('./TeamName');
 function teamRecords(data) {
   
   return data.reduce((prev, curr) =>{
-    
-    let name = teamName.normalize(curr.name[0].text);
-    let key = Convert.sentenceToWord(name.toLowerCase());
-    let d = {
+    const name = teamName.normalize(curr.name);
+    const key = Convert.sentenceToWord(name.toLowerCase());
+    const d = {
       name: name,
       slug: key,
-      win_percentage: Convert.percentToFloat(curr.win_percentage[0].text),
-      ats: Convert.stringToFloat(curr.ats[0].text)
+      win_percentage: Convert.percentToFloat(curr.win_percentage),
+      margin_of_victory: Convert.stringToFloat(curr.margin_of_victory),
+      ats: Convert.stringToFloat(curr.ats)
     };
     
     prev[key] = d;
-    
     return prev;
   }, {});
 }
 
 function teamSOS(data) {
-  
   return data.reduce((prev, curr) =>{
-    
-    let name = teamName.normalize(curr.name[0].text);
-    let key = Convert.sentenceToWord(name.toLowerCase());
-    let d = {
+    const name = teamName.normalize(curr.name);
+    const key = Convert.sentenceToWord(name.toLowerCase());
+    const d = {
       name: name,
       slug: key,
-      sos: parseFloat(curr.sos_rating[0].text)
+      sos: parseFloat(curr.sos_rating)
     };
     
     prev[key] = d;
-    
     return prev;
   }, {});
 }
 
 function offensiveStats(data) {
-  
-  // Let's tame this data structure a bit...
-  let arrayOfArrays = [];
+ return data.reduce((prev, curr) => {
+   const name = teamName.normalize(curr.name);
+   const key = Convert.sentenceToWord(name.toLowerCase());
+   const d = {
+     name: name,
+     slug: key,
+     ypp_offense: parseFloat(curr.numyards_total) / parseFloat(curr.numplays_total)
+   }
 
-  data.forEach((item) => {
-    arrayOfArrays.push(item.group);
-  });
-
-  let flattened = [].concat.apply([], arrayOfArrays);
-
-  return flattened
-    .reduce((prev, curr) => {
-      
-      let name = teamName.normalize(curr.name[0].text);
-      let key = Convert.sentenceToWord(name.toLowerCase());
-      let d = {
-        name: name,
-        slug: key,
-        ypp_offense: parseFloat(curr.numyards_total[0].text) / parseFloat(curr.numplays_total[0].text)
-      }
-
-      prev[key] = d;
-
-      return prev;
-    }, {});
+   prev[key] = d;
+   return prev;
+ }, {});
 }
 
 function defensiveStats(data) {
-  
   return data.reduce((prev, curr) => {
-    
-    let name = teamName.normalize(curr.name[0].text);
-    let key = Convert.sentenceToWord(name.toLowerCase());
-    let d = {
+    const name = teamName.normalize(curr.name);
+    const key = Convert.sentenceToWord(name.toLowerCase());
+    const d = {
       name: name,
       slug: key,
-      ypp_defense: parseFloat(curr.numyards_total[0].text) / parseFloat(curr.numplays_total[0].text)
+      ypp_defense: parseFloat(curr.numyards_total) / parseFloat(curr.numplays_total)
     };
     
     prev[key] = d;
-    
     return prev;
   }, {});
 }
 
 function playerRanks(data) {
-  
-  // Let's tame this data structure a bit...
-  let arrayOfArrays = [];
-
-  data.forEach((item) => {
-    arrayOfArrays.push(item.group);
-  });
-
-  let flattened = [].concat.apply([], arrayOfArrays);
-
-  return flattened.reduce((prev, curr) => {
-    
-    let name = teamName.normalize(curr.name[0].text);
-    let key = Convert.sentenceToWord(name.toLowerCase());
-    let d = {
+  return data.reduce((prev, curr) => {
+    const name = teamName.normalize(curr.name);
+    const key = Convert.sentenceToWord(name.toLowerCase());
+    const d = {
       name: name,
       slug: key,
-      recruiting_score: parseFloat(curr.score[0].text)
+      recruiting_score: parseFloat(curr.score)
     };
 
     prev[key] = d;
-
     return prev;
   }, {});
 }
