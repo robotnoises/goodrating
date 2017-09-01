@@ -71,7 +71,8 @@ const nameMap = {
   'u mass': 'Massachusetts',
   'nevada-las vegas': 'UNLV',
   'southern california': 'USC',
-  'tx-san ant': 'Texas San Antonio'
+  'tx-san ant': 'Texas San Antonio',
+  'coastal car': 'Coastal Carolina'
 };
 
 function normalize(name) {
