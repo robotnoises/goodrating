@@ -1,130 +1,114 @@
 [
   {
-    "name": "Alabama",
-    "sos_rating": "25.7"
+    "name": "Florida St",
+    "sos_rating": "28.3"
   },
   {
     "name": "Indiana",
     "sos_rating": "23.0"
   },
   {
+    "name": "GA Southern",
+    "sos_rating": "22.4"
+  },
+  {
+    "name": "Utah State",
+    "sos_rating": "21.0"
+  },
+  {
     "name": "Tulsa",
     "sos_rating": "20.6"
   },
   {
-    "name": "Florida St",
+    "name": "W Michigan",
     "sos_rating": "20.5"
   },
   {
-    "name": "Oklahoma",
-    "sos_rating": "19.9"
+    "name": "Alabama",
+    "sos_rating": "18.0"
   },
   {
-    "name": "Clemson",
+    "name": "Florida",
+    "sos_rating": "17.8"
+  },
+  {
+    "name": "Temple",
     "sos_rating": "17.4"
   },
   {
-    "name": "Washington",
-    "sos_rating": "17.2"
+    "name": "Akron",
+    "sos_rating": "16.8"
   },
   {
-    "name": "Auburn",
-    "sos_rating": "17.2"
+    "name": "App State",
+    "sos_rating": "16.6"
   },
   {
-    "name": "USC",
-    "sos_rating": "17.0"
-  },
-  {
-    "name": "Penn State",
-    "sos_rating": "17.0"
-  },
-  {
-    "name": "LSU",
-    "sos_rating": "16.4"
-  },
-  {
-    "name": "Louisville",
-    "sos_rating": "16.3"
-  },
-  {
-    "name": "Michigan",
-    "sos_rating": "15.4"
-  },
-  {
-    "name": "Wisconsin",
-    "sos_rating": "15.0"
+    "name": "Kent State",
+    "sos_rating": "14.4"
   },
   {
     "name": "Rice",
     "sos_rating": "13.0"
   },
   {
-    "name": "Kansas St",
-    "sos_rating": "12.4"
+    "name": "Purdue",
+    "sos_rating": "12.5"
   },
   {
-    "name": "Georgia",
-    "sos_rating": "11.4"
+    "name": "Rutgers",
+    "sos_rating": "12.0"
   },
   {
-    "name": "TX Christian",
-    "sos_rating": "11.3"
+    "name": "Wyoming",
+    "sos_rating": "11.8"
   },
   {
-    "name": "Miami (FL)",
-    "sos_rating": "10.7"
+    "name": "TX El Paso",
+    "sos_rating": "11.7"
   },
   {
-    "name": "Florida",
-    "sos_rating": "10.6"
-  },
-  {
-    "name": "Oregon St",
-    "sos_rating": "10.3"
-  },
-  {
-    "name": "Wash State",
-    "sos_rating": "9.9"
-  },
-  {
-    "name": "Notre Dame",
-    "sos_rating": "9.7"
-  },
-  {
-    "name": "Texas",
-    "sos_rating": "9.7"
+    "name": "Texas A&M",
+    "sos_rating": "11.0"
   },
   {
     "name": "Florida Intl",
     "sos_rating": "9.3"
   },
   {
+    "name": "W Virginia",
+    "sos_rating": "9.2"
+  },
+  {
     "name": "GA Tech",
+    "sos_rating": "9.2"
+  },
+  {
+    "name": "Nevada",
+    "sos_rating": "9.1"
+  },
+  {
+    "name": "Troy",
     "sos_rating": "9.0"
   },
   {
     "name": "Tennessee",
-    "sos_rating": "8.9"
-  },
-  {
-    "name": "Texas A&M",
     "sos_rating": "8.8"
   },
   {
-    "name": "NC State",
-    "sos_rating": "8.8"
+    "name": "S Alabama",
+    "sos_rating": "8.2"
   },
   {
-    "name": "Northwestern",
-    "sos_rating": "8.1"
+    "name": "Michigan",
+    "sos_rating": "8.2"
   },
   {
-    "name": "VA Tech",
+    "name": "Bowling Grn",
     "sos_rating": "8.0"
   },
   {
-    "name": "UCLA",
+    "name": "Maryland",
     "sos_rating": "7.9"
   },
   {
@@ -132,79 +116,31 @@
     "sos_rating": "7.8"
   },
   {
-    "name": "Iowa",
-    "sos_rating": "7.1"
-  },
-  {
-    "name": "Oregon",
-    "sos_rating": "6.9"
-  },
-  {
-    "name": "Missouri",
-    "sos_rating": "6.8"
-  },
-  {
-    "name": "W Virginia",
-    "sos_rating": "6.5"
-  },
-  {
-    "name": "Baylor",
-    "sos_rating": "6.2"
-  },
-  {
-    "name": "San Jose St",
-    "sos_rating": "6.2"
-  },
-  {
     "name": "LA Monroe",
     "sos_rating": "6.2"
   },
   {
-    "name": "Colorado",
-    "sos_rating": "6.1"
-  },
-  {
-    "name": "Miss State",
+    "name": "UCLA",
     "sos_rating": "5.7"
   },
   {
-    "name": "Vanderbilt",
-    "sos_rating": "5.5"
+    "name": "VA Tech",
+    "sos_rating": "5.3"
   },
   {
-    "name": "Boise State",
-    "sos_rating": "5.5"
-  },
-  {
-    "name": "Mississippi",
-    "sos_rating": "5.5"
-  },
-  {
-    "name": "Pittsburgh",
-    "sos_rating": "5.5"
-  },
-  {
-    "name": "W Kentucky",
+    "name": "S Carolina",
     "sos_rating": "5.2"
   },
   {
-    "name": "Kentucky",
-    "sos_rating": "5.1"
-  },
-  {
-    "name": "Navy",
-    "sos_rating": "4.4"
+    "name": "Middle Tenn",
+    "sos_rating": "5.0"
   },
   {
     "name": "Buffalo",
     "sos_rating": "4.2"
   },
   {
-    "name": "Duke",
-    "sos_rating": "4.2"
-  },
-  {
-    "name": "N Carolina",
+    "name": "California",
     "sos_rating": "4.0"
   },
   {
@@ -212,164 +148,104 @@
     "sos_rating": "3.7"
   },
   {
-    "name": "San Diego St",
-    "sos_rating": "3.4"
+    "name": "Arkansas St",
+    "sos_rating": "3.5"
   },
   {
-    "name": "W Michigan",
-    "sos_rating": "2.3"
+    "name": "Fla Atlantic",
+    "sos_rating": "3.3"
+  },
+  {
+    "name": "Colorado",
+    "sos_rating": "3.3"
+  },
+  {
+    "name": "NC State",
+    "sos_rating": "2.9"
   },
   {
     "name": "N Mex State",
     "sos_rating": "2.2"
   },
   {
-    "name": "Michigan St",
-    "sos_rating": "2.2"
+    "name": "S Mississippi",
+    "sos_rating": "1.3"
   },
   {
-    "name": "App State",
-    "sos_rating": "1.6"
+    "name": "Texas",
+    "sos_rating": "0.5"
   },
   {
-    "name": "Arizona",
-    "sos_rating": "1.2"
+    "name": "Colorado St",
+    "sos_rating": "-0.3"
   },
   {
-    "name": "Nebraska",
-    "sos_rating": "0.9"
-  },
-  {
-    "name": "Texas Tech",
-    "sos_rating": "0.7"
-  },
-  {
-    "name": "Syracuse",
-    "sos_rating": "0.7"
-  },
-  {
-    "name": "Temple",
-    "sos_rating": "-0.5"
-  },
-  {
-    "name": "S Carolina",
-    "sos_rating": "-0.6"
+    "name": "USC",
+    "sos_rating": "-1.2"
   },
   {
     "name": "Boston Col",
-    "sos_rating": "-0.9"
+    "sos_rating": "-1.5"
   },
   {
-    "name": "Maryland",
-    "sos_rating": "-1.3"
+    "name": "LSU",
+    "sos_rating": "-2.3"
   },
   {
-    "name": "Iowa State",
-    "sos_rating": "-1.6"
+    "name": "BYU",
+    "sos_rating": "-2.5"
   },
   {
-    "name": "Army",
-    "sos_rating": "-1.6"
+    "name": "Kentucky",
+    "sos_rating": "-2.9"
   },
   {
-    "name": "Troy",
-    "sos_rating": "-2.0"
+    "name": "Georgia",
+    "sos_rating": "-3.5"
   },
   {
-    "name": "Virginia",
-    "sos_rating": "-2.4"
-  },
-  {
-    "name": "California",
-    "sos_rating": "-3.8"
+    "name": "Miami (OH)",
+    "sos_rating": "-3.7"
   },
   {
     "name": "N Illinois",
-    "sos_rating": "-4.4"
+    "sos_rating": "-3.7"
   },
   {
-    "name": "Utah State",
-    "sos_rating": "-4.6"
+    "name": "N Carolina",
+    "sos_rating": "-3.8"
   },
   {
-    "name": "Air Force",
-    "sos_rating": "-5.0"
+    "name": "Louisville",
+    "sos_rating": "-4.5"
   },
   {
-    "name": "Wyoming",
-    "sos_rating": "-5.0"
+    "name": "Washington",
+    "sos_rating": "-4.8"
   },
   {
-    "name": "GA Southern",
+    "name": "Ball State",
+    "sos_rating": "-4.9"
+  },
+  {
+    "name": "Boise State",
     "sos_rating": "-5.5"
   },
   {
-    "name": "LA Tech",
+    "name": "Vanderbilt",
     "sos_rating": "-5.7"
   },
   {
-    "name": "Middle Tenn",
-    "sos_rating": "-6.3"
-  },
-  {
-    "name": "S Mississippi",
-    "sos_rating": "-6.7"
-  },
-  {
-    "name": "Marshall",
-    "sos_rating": "-6.7"
-  },
-  {
-    "name": "Tulane",
-    "sos_rating": "-6.8"
-  },
-  {
-    "name": "Arkansas St",
-    "sos_rating": "-6.8"
-  },
-  {
-    "name": "E Carolina",
+    "name": "Charlotte",
     "sos_rating": "-6.9"
-  },
-  {
-    "name": "New Mexico",
-    "sos_rating": "-7.5"
-  },
-  {
-    "name": "S Methodist",
-    "sos_rating": "-7.9"
   },
   {
     "name": "Oklahoma St",
     "sos_rating": "-8.0"
   },
   {
-    "name": "Ball State",
+    "name": "Notre Dame",
     "sos_rating": "-8.1"
-  },
-  {
-    "name": "Colorado St",
-    "sos_rating": "-8.1"
-  },
-  {
-    "name": "Purdue",
-    "sos_rating": "-8.3"
-  },
-  {
-    "name": "Illinois",
-    "sos_rating": "-8.4"
-  },
-  {
-    "name": "Ohio",
-    "sos_rating": "-8.5"
-  },
-  {
-    "name": "Bowling Grn",
-    "sos_rating": "-8.7"
-  },
-  {
-    "name": "S Florida",
-    "sos_rating": "-8.9"
   },
   {
     "name": "TX-San Ant",
@@ -380,91 +256,91 @@
     "sos_rating": "-9.1"
   },
   {
-    "name": "Akron",
+    "name": "Oregon St",
+    "sos_rating": "-9.2"
+  },
+  {
+    "name": "Nebraska",
+    "sos_rating": "-9.4"
+  },
+  {
+    "name": "Penn State",
+    "sos_rating": "-9.5"
+  },
+  {
+    "name": "Clemson",
+    "sos_rating": "-9.6"
+  },
+  {
+    "name": "Oklahoma",
     "sos_rating": "-9.7"
   },
   {
-    "name": "Rutgers",
-    "sos_rating": "-10.0"
+    "name": "Navy",
+    "sos_rating": "-9.7"
   },
   {
-    "name": "Miami (OH)",
-    "sos_rating": "-10.3"
+    "name": "Iowa",
+    "sos_rating": "-9.7"
   },
   {
-    "name": "Old Dominion",
-    "sos_rating": "-10.4"
+    "name": "Wisconsin",
+    "sos_rating": "-10.6"
   },
   {
-    "name": "Fla Atlantic",
+    "name": "Auburn",
     "sos_rating": "-10.7"
   },
   {
-    "name": "Nevada",
-    "sos_rating": "-10.9"
+    "name": "Illinois",
+    "sos_rating": "-11.6"
   },
   {
-    "name": "UNLV",
-    "sos_rating": "-11.0"
+    "name": "U Mass",
+    "sos_rating": "-11.6"
   },
   {
-    "name": "Hawaii",
-    "sos_rating": "-11.3"
+    "name": "Northwestern",
+    "sos_rating": "-11.9"
   },
   {
-    "name": "LA Lafayette",
-    "sos_rating": "-11.4"
-  },
-  {
-    "name": "E Michigan",
-    "sos_rating": "-11.5"
-  },
-  {
-    "name": "Fresno St",
-    "sos_rating": "-12.3"
-  },
-  {
-    "name": "Kent State",
-    "sos_rating": "-12.6"
-  },
-  {
-    "name": "Kansas",
-    "sos_rating": "-12.7"
-  },
-  {
-    "name": "Coastal Car",
-    "sos_rating": "-13.2"
+    "name": "Marshall",
+    "sos_rating": "-13.4"
   },
   {
     "name": "Memphis",
     "sos_rating": "-13.6"
   },
   {
-    "name": "U Mass",
-    "sos_rating": "-14.3"
+    "name": "Michigan St",
+    "sos_rating": "-14.5"
   },
   {
-    "name": "UAB",
-    "sos_rating": "-14.6"
+    "name": "San Jose St",
+    "sos_rating": "-14.7"
   },
   {
-    "name": "S Alabama",
-    "sos_rating": "-14.6"
+    "name": "S Florida",
+    "sos_rating": "-14.7"
   },
   {
-    "name": "North Texas",
-    "sos_rating": "-16.2"
+    "name": "TX Christian",
+    "sos_rating": "-16.0"
+  },
+  {
+    "name": "Mississippi",
+    "sos_rating": "-17.3"
   },
   {
     "name": "Minnesota",
     "sos_rating": "-17.4"
   },
   {
-    "name": "TX El Paso",
-    "sos_rating": "-17.8"
+    "name": "Coastal Car",
+    "sos_rating": "-19.1"
   },
   {
-    "name": "Charlotte",
+    "name": "Hawaii",
     "sos_rating": "-19.6"
   },
   {
@@ -472,20 +348,72 @@
     "sos_rating": "-20.0"
   },
   {
-    "name": "Texas State",
-    "sos_rating": "-22.7"
+    "name": "Kansas St",
+    "sos_rating": "-20.9"
+  },
+  {
+    "name": "Oregon",
+    "sos_rating": "-20.9"
   },
   {
     "name": "Central FL",
     "sos_rating": "-22.8"
   },
   {
+    "name": "Miss State",
+    "sos_rating": "-23.4"
+  },
+  {
+    "name": "E Carolina",
+    "sos_rating": "-23.5"
+  },
+  {
     "name": "Arkansas",
     "sos_rating": "-23.5"
   },
   {
+    "name": "Duke",
+    "sos_rating": "-23.7"
+  },
+  {
+    "name": "Wash State",
+    "sos_rating": "-24.0"
+  },
+  {
+    "name": "Miami (FL)",
+    "sos_rating": "-24.0"
+  },
+  {
+    "name": "E Michigan",
+    "sos_rating": "-24.3"
+  },
+  {
+    "name": "Baylor",
+    "sos_rating": "-24.3"
+  },
+  {
+    "name": "Pittsburgh",
+    "sos_rating": "-26.6"
+  },
+  {
+    "name": "Missouri",
+    "sos_rating": "-26.9"
+  },
+  {
+    "name": "Army",
+    "sos_rating": "-27.1"
+  },
+  {
     "name": "Georgia State",
     "sos_rating": "-27.8"
+  },
+  {
+    "name": "Texas Tech",
+    "sos_rating": "-28.0"
+  },
+  {
+    "name": "UNLV",
+    "sos_rating": "-28.0"
   },
   {
     "name": "Utah",
@@ -496,7 +424,11 @@
     "sos_rating": "-28.1"
   },
   {
-    "name": "BYU",
+    "name": "W Kentucky",
+    "sos_rating": "-28.2"
+  },
+  {
+    "name": "Syracuse",
     "sos_rating": "-28.6"
   },
   {
@@ -508,15 +440,83 @@
     "sos_rating": "-28.9"
   },
   {
+    "name": "Air Force",
+    "sos_rating": "-28.9"
+  },
+  {
+    "name": "Arizona",
+    "sos_rating": "-29.3"
+  },
+  {
+    "name": "LA Lafayette",
+    "sos_rating": "-29.4"
+  },
+  {
     "name": "Connecticut",
     "sos_rating": "-29.8"
+  },
+  {
+    "name": "San Diego St",
+    "sos_rating": "-30.1"
   },
   {
     "name": "Cincinnati",
     "sos_rating": "-30.4"
   },
   {
+    "name": "Iowa State",
+    "sos_rating": "-30.5"
+  },
+  {
+    "name": "Virginia",
+    "sos_rating": "-30.7"
+  },
+  {
+    "name": "Old Dominion",
+    "sos_rating": "-31.5"
+  },
+  {
+    "name": "Ohio",
+    "sos_rating": "-32.4"
+  },
+  {
+    "name": "New Mexico",
+    "sos_rating": "-33.1"
+  },
+  {
+    "name": "Texas State",
+    "sos_rating": "-33.1"
+  },
+  {
+    "name": "LA Tech",
+    "sos_rating": "-33.5"
+  },
+  {
+    "name": "Kansas",
+    "sos_rating": "-33.8"
+  },
+  {
+    "name": "Fresno St",
+    "sos_rating": "-33.8"
+  },
+  {
+    "name": "Tulane",
+    "sos_rating": "-34.0"
+  },
+  {
     "name": "Idaho",
     "sos_rating": "-34.4"
+  },
+  {
+    "name": "S Methodist",
+    "sos_rating": "-35.1"
+  },
+  {
+    "name": "UAB",
+    "sos_rating": "-36.1"
+  },
+  {
+    "name": "North Texas",
+    "sos_rating": "-39.5"
   }
 ]
