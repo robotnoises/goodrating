@@ -72,7 +72,8 @@ const nameMap = {
   'nevada-las vegas': 'UNLV',
   'southern california': 'USC',
   'tx-san ant': 'Texas San Antonio',
-  'coastal car': 'Coastal Carolina'
+  'coastal car': 'Coastal Carolina',
+  'pitt': 'Pittsburgh'
 };
 
 function normalize(name) {
