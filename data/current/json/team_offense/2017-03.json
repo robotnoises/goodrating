@@ -1,0 +1,652 @@
+[
+  {
+    "name": "UCF",
+    "numplays_total": "78.0",
+    "numyards_total": "596.0"
+  },
+  {
+    "name": "Maryland",
+    "numplays_total": "56.0",
+    "numyards_total": "508.0"
+  },
+  {
+    "name": "Oregon",
+    "numplays_total": "83.7",
+    "numyards_total": "609.0"
+  },
+  {
+    "name": "Oklahoma State",
+    "numplays_total": "70.0",
+    "numyards_total": "620.0"
+  },
+  {
+    "name": "Texas Tech",
+    "numplays_total": "77.0",
+    "numyards_total": "620.5"
+  },
+  {
+    "name": "SMU",
+    "numplays_total": "71.3",
+    "numyards_total": "473.7"
+  },
+  {
+    "name": "Texas Christian",
+    "numplays_total": "72.7",
+    "numyards_total": "507.3"
+  },
+  {
+    "name": "UCLA",
+    "numplays_total": "76.7",
+    "numyards_total": "564.0"
+  },
+  {
+    "name": "Mississippi State",
+    "numplays_total": "72.3",
+    "numyards_total": "493.0"
+  },
+  {
+    "name": "Oklahoma",
+    "numplays_total": "69.3",
+    "numyards_total": "599.0"
+  },
+  {
+    "name": "Arizona",
+    "numplays_total": "74.7",
+    "numyards_total": "498.7"
+  },
+  {
+    "name": "Penn State",
+    "numplays_total": "56.7",
+    "numyards_total": "469.0"
+  },
+  {
+    "name": "Tulsa",
+    "numplays_total": "92.7",
+    "numyards_total": "549.0"
+  },
+  {
+    "name": "Washington",
+    "numplays_total": "59.0",
+    "numyards_total": "431.3"
+  },
+  {
+    "name": "West Virginia",
+    "numplays_total": "79.7",
+    "numyards_total": "583.0"
+  },
+  {
+    "name": "Toledo",
+    "numplays_total": "76.0",
+    "numyards_total": "552.7"
+  },
+  {
+    "name": "Duke",
+    "numplays_total": "89.7",
+    "numyards_total": "516.0"
+  },
+  {
+    "name": "Wake Forest",
+    "numplays_total": "76.3",
+    "numyards_total": "461.3"
+  },
+  {
+    "name": "Washington State",
+    "numplays_total": "80.3",
+    "numyards_total": "485.7"
+  },
+  {
+    "name": "Wisconsin",
+    "numplays_total": "73.3",
+    "numyards_total": "511.0"
+  },
+  {
+    "name": "Memphis",
+    "numplays_total": "70.0",
+    "numyards_total": "488.0"
+  },
+  {
+    "name": "Arkansas State",
+    "numplays_total": "80.0",
+    "numyards_total": "495.0"
+  },
+  {
+    "name": "UNLV",
+    "numplays_total": "66.5",
+    "numyards_total": "557.0"
+  },
+  {
+    "name": "Iowa State",
+    "numplays_total": "71.0",
+    "numyards_total": "463.7"
+  },
+  {
+    "name": "Miami (FL)",
+    "numplays_total": "65.0",
+    "numyards_total": "555.0"
+  },
+  {
+    "name": "Ohio",
+    "numplays_total": "67.3",
+    "numyards_total": "426.3"
+  },
+  {
+    "name": "Virginia Tech",
+    "numplays_total": "74.7",
+    "numyards_total": "482.3"
+  },
+  {
+    "name": "Texas",
+    "numplays_total": "82.3",
+    "numyards_total": "487.3"
+  },
+  {
+    "name": "South Florida",
+    "numplays_total": "93.0",
+    "numyards_total": "522.3"
+  },
+  {
+    "name": "North Carolina",
+    "numplays_total": "75.3",
+    "numyards_total": "450.7"
+  },
+  {
+    "name": "USC",
+    "numplays_total": "76.3",
+    "numyards_total": "537.3"
+  },
+  {
+    "name": "Clemson",
+    "numplays_total": "74.7",
+    "numyards_total": "524.0"
+  },
+  {
+    "name": "Georgia Tech",
+    "numplays_total": "76.0",
+    "numyards_total": "488.5"
+  },
+  {
+    "name": "Kansas State",
+    "numplays_total": "61.3",
+    "numyards_total": "429.7"
+  },
+  {
+    "name": "Notre Dame",
+    "numplays_total": "76.3",
+    "numyards_total": "494.0"
+  },
+  {
+    "name": "Louisiana-Lafayette",
+    "numplays_total": "69.0",
+    "numyards_total": "422.7"
+  },
+  {
+    "name": "North Carolina State",
+    "numplays_total": "79.0",
+    "numyards_total": "493.0"
+  },
+  {
+    "name": "Syracuse",
+    "numplays_total": "88.3",
+    "numyards_total": "491.0"
+  },
+  {
+    "name": "Texas A&M",
+    "numplays_total": "83.3",
+    "numyards_total": "448.0"
+  },
+  {
+    "name": "Air Force",
+    "numplays_total": "69.5",
+    "numyards_total": "439.5"
+  },
+  {
+    "name": "Utah",
+    "numplays_total": "78.7",
+    "numyards_total": "476.7"
+  },
+  {
+    "name": "Ole Miss",
+    "numplays_total": "66.0",
+    "numyards_total": "496.7"
+  },
+  {
+    "name": "Purdue",
+    "numplays_total": "76.3",
+    "numyards_total": "459.7"
+  },
+  {
+    "name": "Alabama",
+    "numplays_total": "62.0",
+    "numyards_total": "417.7"
+  },
+  {
+    "name": "North Texas",
+    "numplays_total": "67.7",
+    "numyards_total": "489.3"
+  },
+  {
+    "name": "Tennessee",
+    "numplays_total": "66.0",
+    "numyards_total": "402.0"
+  },
+  {
+    "name": "Louisville",
+    "numplays_total": "77.0",
+    "numyards_total": "554.0"
+  },
+  {
+    "name": "Ohio State",
+    "numplays_total": "74.7",
+    "numyards_total": "510.7"
+  },
+  {
+    "name": "Stanford",
+    "numplays_total": "56.3",
+    "numyards_total": "412.0"
+  },
+  {
+    "name": "Arizona State",
+    "numplays_total": "73.0",
+    "numyards_total": "412.0"
+  },
+  {
+    "name": "Hawaii",
+    "numplays_total": "75.7",
+    "numyards_total": "490.3"
+  },
+  {
+    "name": "UTSA",
+    "numplays_total": "67.0",
+    "numyards_total": "438.5"
+  },
+  {
+    "name": "Ball State",
+    "numplays_total": "75.0",
+    "numyards_total": "408.7"
+  },
+  {
+    "name": "Iowa",
+    "numplays_total": "74.7",
+    "numyards_total": "398.3"
+  },
+  {
+    "name": "Minnesota",
+    "numplays_total": "71.3",
+    "numyards_total": "387.3"
+  },
+  {
+    "name": "UAB",
+    "numplays_total": "71.7",
+    "numyards_total": "400.7"
+  },
+  {
+    "name": "Michigan",
+    "numplays_total": "68.7",
+    "numyards_total": "402.0"
+  },
+  {
+    "name": "Navy",
+    "numplays_total": "70.0",
+    "numyards_total": "427.5"
+  },
+  {
+    "name": "Northwestern",
+    "numplays_total": "72.0",
+    "numyards_total": "459.0"
+  },
+  {
+    "name": "Boise State",
+    "numplays_total": "65.7",
+    "numyards_total": "342.0"
+  },
+  {
+    "name": "Louisiana Tech",
+    "numplays_total": "73.3",
+    "numyards_total": "413.3"
+  },
+  {
+    "name": "California",
+    "numplays_total": "74.3",
+    "numyards_total": "433.0"
+  },
+  {
+    "name": "Colorado",
+    "numplays_total": "74.0",
+    "numyards_total": "448.7"
+  },
+  {
+    "name": "Kansas",
+    "numplays_total": "79.0",
+    "numyards_total": "452.7"
+  },
+  {
+    "name": "Nebraska",
+    "numplays_total": "74.3",
+    "numyards_total": "402.7"
+  },
+  {
+    "name": "Michigan State",
+    "numplays_total": "76.0",
+    "numyards_total": "461.0"
+  },
+  {
+    "name": "Georgia",
+    "numplays_total": "68.3",
+    "numyards_total": "384.3"
+  },
+  {
+    "name": "Army",
+    "numplays_total": "63.0",
+    "numyards_total": "376.7"
+  },
+  {
+    "name": "Central Michigan",
+    "numplays_total": "85.3",
+    "numyards_total": "490.3"
+  },
+  {
+    "name": "Fresno State",
+    "numplays_total": "68.7",
+    "numyards_total": "404.3"
+  },
+  {
+    "name": "Rutgers",
+    "numplays_total": "72.7",
+    "numyards_total": "371.0"
+  },
+  {
+    "name": "Coastal Carolina",
+    "numplays_total": "68.5",
+    "numyards_total": "364.0"
+  },
+  {
+    "name": "Colorado State",
+    "numplays_total": "79.5",
+    "numyards_total": "482.0"
+  },
+  {
+    "name": "Southern Mississippi",
+    "numplays_total": "78.0",
+    "numyards_total": "458.3"
+  },
+  {
+    "name": "Missouri",
+    "numplays_total": "65.3",
+    "numyards_total": "480.3"
+  },
+  {
+    "name": "San Diego State",
+    "numplays_total": "71.0",
+    "numyards_total": "408.0"
+  },
+  {
+    "name": "Houston",
+    "numplays_total": "72.0",
+    "numyards_total": "433.5"
+  },
+  {
+    "name": "New Mexico State",
+    "numplays_total": "77.7",
+    "numyards_total": "477.0"
+  },
+  {
+    "name": "Appalachian State",
+    "numplays_total": "63.3",
+    "numyards_total": "395.3"
+  },
+  {
+    "name": "Arkansas",
+    "numplays_total": "60.5",
+    "numyards_total": "341.0"
+  },
+  {
+    "name": "Vanderbilt",
+    "numplays_total": "59.7",
+    "numyards_total": "347.7"
+  },
+  {
+    "name": "Virginia",
+    "numplays_total": "78.0",
+    "numyards_total": "431.3"
+  },
+  {
+    "name": "Indiana",
+    "numplays_total": "83.0",
+    "numyards_total": "377.5"
+  },
+  {
+    "name": "Western Michigan",
+    "numplays_total": "69.0",
+    "numyards_total": "299.7"
+  },
+  {
+    "name": "New Mexico",
+    "numplays_total": "66.7",
+    "numyards_total": "396.0"
+  },
+  {
+    "name": "LSU",
+    "numplays_total": "65.7",
+    "numyards_total": "401.0"
+  },
+  {
+    "name": "Northern Illinois",
+    "numplays_total": "68.7",
+    "numyards_total": "367.3"
+  },
+  {
+    "name": "South Alabama",
+    "numplays_total": "57.0",
+    "numyards_total": "320.7"
+  },
+  {
+    "name": "South Carolina",
+    "numplays_total": "58.3",
+    "numyards_total": "321.0"
+  },
+  {
+    "name": "Florida Atlantic",
+    "numplays_total": "67.0",
+    "numyards_total": "397.7"
+  },
+  {
+    "name": "Tulane",
+    "numplays_total": "66.0",
+    "numyards_total": "349.3"
+  },
+  {
+    "name": "Baylor",
+    "numplays_total": "61.0",
+    "numyards_total": "389.0"
+  },
+  {
+    "name": "Oregon State",
+    "numplays_total": "64.5",
+    "numyards_total": "356.0"
+  },
+  {
+    "name": "Kentucky",
+    "numplays_total": "63.7",
+    "numyards_total": "347.7"
+  },
+  {
+    "name": "Miami (OH)",
+    "numplays_total": "73.3",
+    "numyards_total": "338.3"
+  },
+  {
+    "name": "Troy",
+    "numplays_total": "72.3",
+    "numyards_total": "432.7"
+  },
+  {
+    "name": "Idaho",
+    "numplays_total": "64.3",
+    "numyards_total": "379.7"
+  },
+  {
+    "name": "Marshall",
+    "numplays_total": "66.3",
+    "numyards_total": "366.3"
+  },
+  {
+    "name": "Nevada",
+    "numplays_total": "71.0",
+    "numyards_total": "383.3"
+  },
+  {
+    "name": "Auburn",
+    "numplays_total": "75.0",
+    "numyards_total": "387.3"
+  },
+  {
+    "name": "Old Dominion",
+    "numplays_total": "66.3",
+    "numyards_total": "322.3"
+  },
+  {
+    "name": "Utah State",
+    "numplays_total": "72.3",
+    "numyards_total": "389.0"
+  },
+  {
+    "name": "Louisiana-Monroe",
+    "numplays_total": "75.0",
+    "numyards_total": "377.5"
+  },
+  {
+    "name": "Massachusetts",
+    "numplays_total": "72.8",
+    "numyards_total": "411.0"
+  },
+  {
+    "name": "Connecticut",
+    "numplays_total": "72.5",
+    "numyards_total": "436.0"
+  },
+  {
+    "name": "Illinois",
+    "numplays_total": "59.7",
+    "numyards_total": "290.0"
+  },
+  {
+    "name": "Akron",
+    "numplays_total": "67.0",
+    "numyards_total": "318.0"
+  },
+  {
+    "name": "Florida",
+    "numplays_total": "55.0",
+    "numyards_total": "286.0"
+  },
+  {
+    "name": "Pitt",
+    "numplays_total": "77.3",
+    "numyards_total": "360.3"
+  },
+  {
+    "name": "Cincinnati",
+    "numplays_total": "68.3",
+    "numyards_total": "269.7"
+  },
+  {
+    "name": "Temple",
+    "numplays_total": "68.7",
+    "numyards_total": "356.7"
+  },
+  {
+    "name": "Eastern Michigan",
+    "numplays_total": "72.0",
+    "numyards_total": "383.5"
+  },
+  {
+    "name": "Western Kentucky",
+    "numplays_total": "68.7",
+    "numyards_total": "328.3"
+  },
+  {
+    "name": "Buffalo",
+    "numplays_total": "59.0",
+    "numyards_total": "353.3"
+  },
+  {
+    "name": "San Jose State",
+    "numplays_total": "72.5",
+    "numyards_total": "325.8"
+  },
+  {
+    "name": "Boston College",
+    "numplays_total": "86.3",
+    "numyards_total": "348.0"
+  },
+  {
+    "name": "East Carolina",
+    "numplays_total": "73.7",
+    "numyards_total": "372.7"
+  },
+  {
+    "name": "Florida International",
+    "numplays_total": "65.0",
+    "numyards_total": "400.0"
+  },
+  {
+    "name": "Charlotte",
+    "numplays_total": "64.0",
+    "numyards_total": "294.7"
+  },
+  {
+    "name": "Bowling Green State",
+    "numplays_total": "70.7",
+    "numyards_total": "345.3"
+  },
+  {
+    "name": "Wyoming",
+    "numplays_total": "62.3",
+    "numyards_total": "269.7"
+  },
+  {
+    "name": "Kent State",
+    "numplays_total": "59.7",
+    "numyards_total": "259.3"
+  },
+  {
+    "name": "Rice",
+    "numplays_total": "63.0",
+    "numyards_total": "306.7"
+  },
+  {
+    "name": "Middle Tennessee State",
+    "numplays_total": "61.0",
+    "numyards_total": "277.7"
+  },
+  {
+    "name": "UTEP",
+    "numplays_total": "52.7",
+    "numyards_total": "211.3"
+  },
+  {
+    "name": "Texas State",
+    "numplays_total": "68.7",
+    "numyards_total": "319.3"
+  },
+  {
+    "name": "Brigham Young",
+    "numplays_total": "52.0",
+    "numyards_total": "221.8"
+  },
+  {
+    "name": "Georgia Southern",
+    "numplays_total": "67.5",
+    "numyards_total": "202.0"
+  },
+  {
+    "name": "Florida State",
+    "numplays_total": "60.0",
+    "numyards_total": "250.0"
+  },
+  {
+    "name": "Georgia State",
+    "numplays_total": "66.5",
+    "numyards_total": "296.5"
+  }
+]
