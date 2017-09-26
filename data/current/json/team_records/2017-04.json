@@ -1,0 +1,912 @@
+[
+  {
+    "name": "Wisconsin",
+    "record": "3-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "33.3",
+    "ats": "+8.2"
+  },
+  {
+    "name": "Oklahoma",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "28.5",
+    "ats": "+4.5"
+  },
+  {
+    "name": "Georgia",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "19.5",
+    "ats": "+9.0"
+  },
+  {
+    "name": "Central FL",
+    "record": "2-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "36.0",
+    "ats": "+29.2"
+  },
+  {
+    "name": "Minnesota",
+    "record": "3-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "25.0",
+    "ats": "+13.8"
+  },
+  {
+    "name": "Wake Forest",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "26.2",
+    "ats": "+10.6"
+  },
+  {
+    "name": "Washington",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "32.8",
+    "ats": "+4.6"
+  },
+  {
+    "name": "Miami (FL)",
+    "record": "2-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "25.0",
+    "ats": "-6.8"
+  },
+  {
+    "name": "San Diego St",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "9.5",
+    "ats": "+3.2"
+  },
+  {
+    "name": "Michigan",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "18.0",
+    "ats": "-0.2"
+  },
+  {
+    "name": "Texas Tech",
+    "record": "3-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "18.7",
+    "ats": "+14.8"
+  },
+  {
+    "name": "Duke",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "25.2",
+    "ats": "+14.5"
+  },
+  {
+    "name": "Penn State",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "32.2",
+    "ats": "+7.5"
+  },
+  {
+    "name": "Wash State",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "25.2",
+    "ats": "+1.6"
+  },
+  {
+    "name": "Memphis",
+    "record": "3-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "8.0",
+    "ats": "-10.0"
+  },
+  {
+    "name": "USC",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "12.2",
+    "ats": "-4.1"
+  },
+  {
+    "name": "Utah",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "17.8",
+    "ats": "+3.5"
+  },
+  {
+    "name": "VA Tech",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "29.8",
+    "ats": "+4.4"
+  },
+  {
+    "name": "Clemson",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "28.5",
+    "ats": "+8.4"
+  },
+  {
+    "name": "S Florida",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "23.5",
+    "ats": "+1.1"
+  },
+  {
+    "name": "Alabama",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "31.2",
+    "ats": "+6.2"
+  },
+  {
+    "name": "Navy",
+    "record": "3-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "11.7",
+    "ats": "+3.8"
+  },
+  {
+    "name": "TX Christian",
+    "record": "4-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "29.2",
+    "ats": "+9.4"
+  },
+  {
+    "name": "TX-San Ant",
+    "record": "3-0-0",
+    "win_percentage": "100.0%",
+    "margin_of_victory": "23.7",
+    "ats": "+11.7"
+  },
+  {
+    "name": "S Carolina",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "4.0",
+    "ats": "+2.9"
+  },
+  {
+    "name": "Virginia",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "10.0",
+    "ats": "+4.9"
+  },
+  {
+    "name": "Notre Dame",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "20.2",
+    "ats": "+9.6"
+  },
+  {
+    "name": "Louisville",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "8.0",
+    "ats": "-11.0"
+  },
+  {
+    "name": "Vanderbilt",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "3.0",
+    "ats": "-4.0"
+  },
+  {
+    "name": "California",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "4.8",
+    "ats": "+7.4"
+  },
+  {
+    "name": "S Methodist",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "17.2",
+    "ats": "+11.2"
+  },
+  {
+    "name": "LSU",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "10.2",
+    "ats": "-9.5"
+  },
+  {
+    "name": "Oklahoma St",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "24.2",
+    "ats": "+7.4"
+  },
+  {
+    "name": "NC State",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "12.2",
+    "ats": "-1.4"
+  },
+  {
+    "name": "Ohio",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "13.8",
+    "ats": "+4.0"
+  },
+  {
+    "name": "Miss State",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "21.8",
+    "ats": "+16.2"
+  },
+  {
+    "name": "Auburn",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "19.2",
+    "ats": "-2.5"
+  },
+  {
+    "name": "Toledo",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "7.0",
+    "ats": "-5.2"
+  },
+  {
+    "name": "Texas A&M",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "10.0",
+    "ats": "-4.0"
+  },
+  {
+    "name": "Iowa",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "9.8",
+    "ats": "+4.1"
+  },
+  {
+    "name": "Kentucky",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "6.8",
+    "ats": "-1.5"
+  },
+  {
+    "name": "Colorado",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "10.2",
+    "ats": "-6.5"
+  },
+  {
+    "name": "Tennessee",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "8.5",
+    "ats": "-7.2"
+  },
+  {
+    "name": "Troy",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "6.0",
+    "ats": "-8.9"
+  },
+  {
+    "name": "W Virginia",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "23.5",
+    "ats": "+12.6"
+  },
+  {
+    "name": "Ohio State",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "19.2",
+    "ats": "-5.9"
+  },
+  {
+    "name": "Oregon",
+    "record": "3-1-0",
+    "win_percentage": "75.0%",
+    "margin_of_victory": "24.2",
+    "ats": "+4.6"
+  },
+  {
+    "name": "Iowa State",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "14.0",
+    "ats": "+8.5"
+  },
+  {
+    "name": "Indiana",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "8.0",
+    "ats": "+6.2"
+  },
+  {
+    "name": "Kansas St",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "25.7",
+    "ats": "+4.7"
+  },
+  {
+    "name": "Marshall",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "3.0",
+    "ats": "+6.5"
+  },
+  {
+    "name": "Maryland",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "9.3",
+    "ats": "+4.7"
+  },
+  {
+    "name": "Michigan St",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "6.3",
+    "ats": "-0.8"
+  },
+  {
+    "name": "Mississippi",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "10.3",
+    "ats": "-9.7"
+  },
+  {
+    "name": "Houston",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "11.7",
+    "ats": "+1.5"
+  },
+  {
+    "name": "Illinois",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "-2.7",
+    "ats": "+3.0"
+  },
+  {
+    "name": "Florida",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "-3.0",
+    "ats": "-4.8"
+  },
+  {
+    "name": "S Mississippi",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "16.3",
+    "ats": "+6.7"
+  },
+  {
+    "name": "Northwestern",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "9.7",
+    "ats": "-6.0"
+  },
+  {
+    "name": "E Michigan",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "4.3",
+    "ats": "+1.0"
+  },
+  {
+    "name": "GA Tech",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "14.7",
+    "ats": "+9.0"
+  },
+  {
+    "name": "N Illinois",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "9.7",
+    "ats": "+9.7"
+  },
+  {
+    "name": "Florida Intl",
+    "record": "2-1-0",
+    "win_percentage": "66.7%",
+    "margin_of_victory": "-10.3",
+    "ats": "-10.3"
+  },
+  {
+    "name": "Cincinnati",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-4.0",
+    "ats": "-3.9"
+  },
+  {
+    "name": "Buffalo",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "3.0",
+    "ats": "+6.5"
+  },
+  {
+    "name": "Arizona",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "19.0",
+    "ats": "+7.6"
+  },
+  {
+    "name": "N Mex State",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "5.0",
+    "ats": "+11.6"
+  },
+  {
+    "name": "Wyoming",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-5.8",
+    "ats": "-10.2"
+  },
+  {
+    "name": "Purdue",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "7.5",
+    "ats": "+18.0"
+  },
+  {
+    "name": "UCLA",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "1.8",
+    "ats": "-5.1"
+  },
+  {
+    "name": "Hawaii",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-3.5",
+    "ats": "-1.1"
+  },
+  {
+    "name": "Nebraska",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "1.5",
+    "ats": "-5.2"
+  },
+  {
+    "name": "New Mexico",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "2.8",
+    "ats": "-1.1"
+  },
+  {
+    "name": "Central Mich",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-5.0",
+    "ats": "-11.4"
+  },
+  {
+    "name": "Army",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "6.8",
+    "ats": "+7.2"
+  },
+  {
+    "name": "App State",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "8.0",
+    "ats": "-5.6"
+  },
+  {
+    "name": "Idaho",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-2.2",
+    "ats": "-2.8"
+  },
+  {
+    "name": "Tulane",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-2.8",
+    "ats": "+2.4"
+  },
+  {
+    "name": "W Michigan",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "3.0",
+    "ats": "-1.9"
+  },
+  {
+    "name": "Stanford",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "14.5",
+    "ats": "+4.2"
+  },
+  {
+    "name": "Arizona St",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-2.2",
+    "ats": "-4.4"
+  },
+  {
+    "name": "Ball State",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "5.0",
+    "ats": "+0.1"
+  },
+  {
+    "name": "W Kentucky",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "3.0",
+    "ats": "-12.0"
+  },
+  {
+    "name": "North Texas",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "2.2",
+    "ats": "+3.6"
+  },
+  {
+    "name": "Boise State",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "0.8",
+    "ats": "-7.4"
+  },
+  {
+    "name": "Syracuse",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "12.8",
+    "ats": "+2.6"
+  },
+  {
+    "name": "Miami (OH)",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "7.2",
+    "ats": "-2.8"
+  },
+  {
+    "name": "Colorado St",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "6.8",
+    "ats": "+3.8"
+  },
+  {
+    "name": "Middle Tenn",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-8.8",
+    "ats": "-4.5"
+  },
+  {
+    "name": "LA Tech",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-2.0",
+    "ats": "-6.0"
+  },
+  {
+    "name": "Utah State",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "1.0",
+    "ats": "+2.4"
+  },
+  {
+    "name": "Temple",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-14.5",
+    "ats": "-10.2"
+  },
+  {
+    "name": "UAB",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "3.8",
+    "ats": "+2.2"
+  },
+  {
+    "name": "Old Dominion",
+    "record": "2-2-0",
+    "win_percentage": "50.0%",
+    "margin_of_victory": "-11.0",
+    "ats": "-7.9"
+  },
+  {
+    "name": "Air Force",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "14.0",
+    "ats": "+10.7"
+  },
+  {
+    "name": "Fresno St",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "1.0",
+    "ats": "+15.2"
+  },
+  {
+    "name": "Arkansas",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "4.7",
+    "ats": "-9.3"
+  },
+  {
+    "name": "Texas",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "14.3",
+    "ats": "+5.3"
+  },
+  {
+    "name": "LA Monroe",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "-4.3",
+    "ats": "+8.7"
+  },
+  {
+    "name": "Coastal Car",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "-13.0",
+    "ats": "-10.5"
+  },
+  {
+    "name": "UNLV",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "-2.7",
+    "ats": "-2.8"
+  },
+  {
+    "name": "Arkansas St",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "5.0",
+    "ats": "+10.7"
+  },
+  {
+    "name": "Connecticut",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "-5.3",
+    "ats": "-10.8"
+  },
+  {
+    "name": "Georgia State",
+    "record": "1-2-0",
+    "win_percentage": "33.3%",
+    "margin_of_victory": "-11.7",
+    "ats": "-4.2"
+  },
+  {
+    "name": "Kansas",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-7.5",
+    "ats": "-7.9"
+  },
+  {
+    "name": "N Carolina",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "0.8",
+    "ats": "-2.6"
+  },
+  {
+    "name": "Akron",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-8.8",
+    "ats": "-6.8"
+  },
+  {
+    "name": "Tulsa",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-4.2",
+    "ats": "-3.6"
+  },
+  {
+    "name": "Boston Col",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-19.2",
+    "ats": "-8.2"
+  },
+  {
+    "name": "Texas State",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-15.5",
+    "ats": "-1.9"
+  },
+  {
+    "name": "Kent State",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-26.5",
+    "ats": "-9.1"
+  },
+  {
+    "name": "Rutgers",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "9.0",
+    "ats": "+7.6"
+  },
+  {
+    "name": "E Carolina",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-25.0",
+    "ats": "-10.5"
+  },
+  {
+    "name": "LA Lafayette",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-12.8",
+    "ats": "-8.0"
+  },
+  {
+    "name": "Oregon St",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-22.8",
+    "ats": "-24.9"
+  },
+  {
+    "name": "Rice",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-19.8",
+    "ats": "-6.6"
+  },
+  {
+    "name": "Fla Atlantic",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "0.5",
+    "ats": "+6.4"
+  },
+  {
+    "name": "BYU",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-13.2",
+    "ats": "-13.6"
+  },
+  {
+    "name": "Pittsburgh",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-17.0",
+    "ats": "-11.1"
+  },
+  {
+    "name": "Missouri",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-14.5",
+    "ats": "-21.1"
+  },
+  {
+    "name": "S Alabama",
+    "record": "1-3-0",
+    "win_percentage": "25.0%",
+    "margin_of_victory": "-4.5",
+    "ats": "-3.0"
+  },
+  {
+    "name": "San Jose St",
+    "record": "1-4-0",
+    "win_percentage": "20.0%",
+    "margin_of_victory": "-28.8",
+    "ats": "-15.2"
+  },
+  {
+    "name": "U Mass",
+    "record": "0-5-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-7.0",
+    "ats": "+1.2"
+  },
+  {
+    "name": "GA Southern",
+    "record": "0-3-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-26.3",
+    "ats": "-9.7"
+  },
+  {
+    "name": "Florida St",
+    "record": "0-2-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-11.5",
+    "ats": "-13.2"
+  },
+  {
+    "name": "Bowling Grn",
+    "record": "0-4-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-21.5",
+    "ats": "-11.0"
+  },
+  {
+    "name": "Nevada",
+    "record": "0-4-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-16.0",
+    "ats": "-8.4"
+  },
+  {
+    "name": "TX El Paso",
+    "record": "0-4-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-35.0",
+    "ats": "-14.1"
+  },
+  {
+    "name": "Baylor",
+    "record": "0-4-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-8.0",
+    "ats": "-10.0"
+  },
+  {
+    "name": "Charlotte",
+    "record": "0-4-0",
+    "win_percentage": "0.0%",
+    "margin_of_victory": "-24.2",
+    "ats": "-16.0"
+  }
+]

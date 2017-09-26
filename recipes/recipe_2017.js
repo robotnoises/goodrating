@@ -16,25 +16,25 @@ let fetchMe = new Fetch();
 function getListOfSchools() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_records', '2017-03.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_records', '2017-04.json'));
 }
 
 function getSOS() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_sos', '2017-03.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_sos', '2017-04.json'));
 }
 
 function getOffensiveStats() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_offense', '2017-03.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_offense', '2017-04.json'));
 }
 
 function getDefensiveStats() {
   return fetchMe
     .by(maps.SOURCE.FILEPATH)
-    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_defense', '2017-03.json'));
+    .at(path.join(config.PROJECT_ROOT, 'data', 'current', 'json', 'team_defense', '2017-04.json'));
 }
 
 function getPlayerRanksFor(year) {
